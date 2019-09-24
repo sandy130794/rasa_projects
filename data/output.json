@@ -1,0 +1,6764 @@
+{
+  "rasa_nlu_data": {
+    "common_examples": [
+      {
+        "entities": [],
+        "intent": "ask_howold",
+        "text": "Do you have friends the same age as you, if so, how old are they?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howold",
+        "text": "How long have you been alive?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howold",
+        "text": "How long have you been around?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howold",
+        "text": "How long have you occupied the earth?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howold",
+        "text": "How many candles were on your last birthday cake?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howold",
+        "text": "How many years have you been alive?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howold",
+        "text": "How many years have you lived?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howold",
+        "text": "How old were you on your last birthday?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howold",
+        "text": "How old will you be on your next birthday?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howold",
+        "text": "Tell me your day, month and year of birth."
+      },
+      {
+        "entities": [],
+        "intent": "ask_howold",
+        "text": "What is your age?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howold",
+        "text": "What is your birthdate?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howold",
+        "text": "What was your age on your last birthday?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howold",
+        "text": "What will be your age on your next birthday?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howold",
+        "text": "What year were you born?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howold",
+        "text": "Whats your age?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howold",
+        "text": "When do you celebrate your day of birth?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howold",
+        "text": "and you are how many years old?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howold",
+        "text": "can you tell me your age?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howold",
+        "text": "do you know how old you are?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howold",
+        "text": "how about your age"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howold",
+        "text": "how many years old are you?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howold",
+        "text": "how old were you on your last birthday?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howold",
+        "text": "how old were you when you celebrated your last birthday?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howold",
+        "text": "how old will you be this year?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howold",
+        "text": "how old?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howold",
+        "text": "tell me your age?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howold",
+        "text": "what age are you"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howold",
+        "text": "what age were you when you celebrated your last birthday?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howold",
+        "text": "what is your birthday?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howold",
+        "text": "what is your exact age?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howold",
+        "text": "what year were you born?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howold",
+        "text": "what's your age?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howold",
+        "text": "whats your age?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howold",
+        "text": "whats your birth year?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howold",
+        "text": "when is your birthday?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howold",
+        "text": "when were you born?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howbuild",
+        "text": "By what means were you made?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howbuild",
+        "text": "By what method were you fashioned?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howbuild",
+        "text": "Can you explain how you were created?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howbuild",
+        "text": "Can you give me an idea as to how you were created?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howbuild",
+        "text": "Can you say how you were constructed?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howbuild",
+        "text": "Do you know how you were built?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howbuild",
+        "text": "Do you know how you were made?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howbuild",
+        "text": "How did they build you?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howbuild",
+        "text": "How did they create you?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howbuild",
+        "text": "How did they make you?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howbuild",
+        "text": "How did you come into being?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howbuild",
+        "text": "How did you come to be?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howbuild",
+        "text": "How exactly were you devised?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howbuild",
+        "text": "How exactly were you made?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howbuild",
+        "text": "How were you built?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howbuild",
+        "text": "How were you conceived?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howbuild",
+        "text": "How were you constructed?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howbuild",
+        "text": "How were you devised?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howbuild",
+        "text": "How were you formed?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howbuild",
+        "text": "How were you made into who you are?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howbuild",
+        "text": "How were you made?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howbuild",
+        "text": "How were you set up?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howbuild",
+        "text": "I want to know how you were formed"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howbuild",
+        "text": "I'd like to know how you were created"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howbuild",
+        "text": "I'd like to know how you were put together?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howbuild",
+        "text": "In what way were you shaped?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howbuild",
+        "text": "In which manner were you devised?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howbuild",
+        "text": "Let me know how you were made exactly"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howbuild",
+        "text": "Specify how you were created?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howbuild",
+        "text": "Tell me how you were made?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howbuild",
+        "text": "What process was used to build you?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howbuild",
+        "text": "What process was used to create you?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howbuild",
+        "text": "What was the process for making you?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howbuild",
+        "text": "You originated through what means?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howbuild",
+        "text": "in what way were you made?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howbuild",
+        "text": "so how were you made?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_languagesbot",
+        "text": "Can you communicate in any other languages?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_languagesbot",
+        "text": "Do you know any other languages?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_languagesbot",
+        "text": "Do you speak any other languages?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_languagesbot",
+        "text": "How many languages do you know?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_languagesbot",
+        "text": "In what languages are you fluent enough?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_languagesbot",
+        "text": "In which languages are you fluent?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_languagesbot",
+        "text": "In which languages can you speak?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_languagesbot",
+        "text": "Speak any other languages?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_languagesbot",
+        "text": "What are the languages you can speak?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_languagesbot",
+        "text": "What do you speak?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_languagesbot",
+        "text": "What languages are you fluent in?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_languagesbot",
+        "text": "What languages can you communicate in?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_languagesbot",
+        "text": "What languages can you converse in?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_languagesbot",
+        "text": "What languages can you use?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_languagesbot",
+        "text": "What languages do you know how to use?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_languagesbot",
+        "text": "What languages do you know?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_languagesbot",
+        "text": "What languages do you speak?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_languagesbot",
+        "text": "Which languages are you familiar with?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_languagesbot",
+        "text": "Which languages do you speak?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_languagesbot",
+        "text": "are you bilingual?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_languagesbot",
+        "text": "are you multilingual?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_languagesbot",
+        "text": "do you speak any other languages?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_languagesbot",
+        "text": "tell me some languages you know?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_languagesbot",
+        "text": "what else do you know besides English?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_languagesbot",
+        "text": "what foreign languages are you fluent in?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_languagesbot",
+        "text": "what foreign languages do you know?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_languagesbot",
+        "text": "what languages are you comfortable speaking at?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_languagesbot",
+        "text": "what languages are you familiar with?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_languagesbot",
+        "text": "what languages are you good at speaking?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_languagesbot",
+        "text": "what languages do you know?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_languagesbot",
+        "text": "what languages you are well versed ?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_languagesbot",
+        "text": "what languages you can be comfortable speaking?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_languagesbot",
+        "text": "what languages you can handle well?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_languagesbot",
+        "text": "what languages you can speak ?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_languagesbot",
+        "text": "what languages you know?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_languagesbot",
+        "text": "what languages you prefer more speaking at?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_isbot",
+        "text": "Ar you a bot ?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_isbot",
+        "text": "Are you a chat bot?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_isbot",
+        "text": "Are you the bot?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_isbot",
+        "text": "Hi there, are you the bot?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_isbot",
+        "text": "So I'm here Today to ask one very simple question, what are you ?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_isbot",
+        "text": "What are you ?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_isbot",
+        "text": "are you Ovkay bot?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_isbot",
+        "text": "are you a BOT"
+      },
+      {
+        "entities": [],
+        "intent": "ask_isbot",
+        "text": "are you a Ovkay bot?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_isbot",
+        "text": "are you a Skynet ?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_isbot",
+        "text": "are you a bot"
+      },
+      {
+        "entities": [],
+        "intent": "ask_isbot",
+        "text": "are you a bot ?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_isbot",
+        "text": "are you a bot?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_isbot",
+        "text": "are you a chatbot"
+      },
+      {
+        "entities": [],
+        "intent": "ask_isbot",
+        "text": "are you a real bot?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_isbot",
+        "text": "are you a robot"
+      },
+      {
+        "entities": [],
+        "intent": "ask_isbot",
+        "text": "are you ai"
+      },
+      {
+        "entities": [],
+        "intent": "ask_isbot",
+        "text": "are you artificial"
+      },
+      {
+        "entities": [],
+        "intent": "ask_isbot",
+        "text": "are you artificial intelligence"
+      },
+      {
+        "entities": [],
+        "intent": "ask_isbot",
+        "text": "are you bot"
+      },
+      {
+        "entities": [],
+        "intent": "ask_isbot",
+        "text": "are you bot?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_isbot",
+        "text": "are you real"
+      },
+      {
+        "entities": [],
+        "intent": "ask_isbot",
+        "text": "are you real lol"
+      },
+      {
+        "entities": [],
+        "intent": "ask_isbot",
+        "text": "are you really a bot"
+      },
+      {
+        "entities": [],
+        "intent": "ask_isbot",
+        "text": "are you robot"
+      },
+      {
+        "entities": [],
+        "intent": "ask_isbot",
+        "text": "are you sure that you're a bot?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_isbot",
+        "text": "cuz you are a bot"
+      },
+      {
+        "entities": [],
+        "intent": "ask_isbot",
+        "text": "i guess you are a chatbot"
+      },
+      {
+        "entities": [],
+        "intent": "ask_isbot",
+        "text": "oh are you chatbot?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_isbot",
+        "text": "tell me, are you a bot?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_isbot",
+        "text": "what are you, a bot?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_isbot",
+        "text": "you are a robot"
+      },
+      {
+        "entities": [],
+        "intent": "ask_isbot",
+        "text": "you are ai"
+      },
+      {
+        "entities": [],
+        "intent": "ask_isbot",
+        "text": "you are chatbot"
+      },
+      {
+        "entities": [],
+        "intent": "ask_isbot",
+        "text": "you're a bot"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whatismyname",
+        "text": "Can you tell me my name?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whatismyname",
+        "text": "Can you tell me what I am called?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whatismyname",
+        "text": "Do I have a name?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whatismyname",
+        "text": "Do I have a name? What is it?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whatismyname",
+        "text": "Do you know my name?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whatismyname",
+        "text": "Do you know what my name is?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whatismyname",
+        "text": "Explain my name to me."
+      },
+      {
+        "entities": [],
+        "intent": "ask_whatismyname",
+        "text": "I have a name, what is it?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whatismyname",
+        "text": "I'd like to know my name"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whatismyname",
+        "text": "I'd like to know what my name is"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whatismyname",
+        "text": "Inform me what my name is"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whatismyname",
+        "text": "May i know my name?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whatismyname",
+        "text": "Please let me know what my name is"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whatismyname",
+        "text": "Say my name."
+      },
+      {
+        "entities": [],
+        "intent": "ask_whatismyname",
+        "text": "Tell me my name"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whatismyname",
+        "text": "Tell me my name."
+      },
+      {
+        "entities": [],
+        "intent": "ask_whatismyname",
+        "text": "What am I called?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whatismyname",
+        "text": "What could be my name?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whatismyname",
+        "text": "What did my parents name me?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whatismyname",
+        "text": "What do I call myself?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whatismyname",
+        "text": "What do my colleagues call me?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whatismyname",
+        "text": "What do people call me?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whatismyname",
+        "text": "What does everyone call me?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whatismyname",
+        "text": "What else do people call me?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whatismyname",
+        "text": "What exactly is my name?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whatismyname",
+        "text": "What is my first name?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whatismyname",
+        "text": "What is my full name?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whatismyname",
+        "text": "What is my name?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whatismyname",
+        "text": "What is the name I was given?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whatismyname",
+        "text": "What name do I go by?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whatismyname",
+        "text": "What name should I recognize for myself?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whatismyname",
+        "text": "What was I named?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whatismyname",
+        "text": "What would be the name on my tombstone?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whatismyname",
+        "text": "can you tell me my name?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whatismyname",
+        "text": "what is my name?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whatismyname",
+        "text": "what's my name?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whoami",
+        "text": "Can you tell me who I am?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whoami",
+        "text": "Can you tell me who am I?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whoami",
+        "text": "Do you know who I am?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whoami",
+        "text": "Do you know who am I?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whoami",
+        "text": "How can I determine who I am?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whoami",
+        "text": "How can I determine who am I?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whoami",
+        "text": "How do I discover who I am?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whoami",
+        "text": "How do I discover who am I?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whoami",
+        "text": "How do I identify myself?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whoami",
+        "text": "Okay who am I?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whoami",
+        "text": "Shall i know who am i?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whoami",
+        "text": "Tell me who I am."
+      },
+      {
+        "entities": [],
+        "intent": "ask_whoami",
+        "text": "Tell me who I am?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whoami",
+        "text": "Tell me who am I?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whoami",
+        "text": "WHo am I"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whoami",
+        "text": "Who am I?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whoami",
+        "text": "Who could I be?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whoami",
+        "text": "can you tell me what I am?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whoami",
+        "text": "can you tell me what my identity is?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whoami",
+        "text": "can you tell me who I am?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whoami",
+        "text": "tell me what my identity is?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whoami",
+        "text": "tell me who I am?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whoami",
+        "text": "what's my identity?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whoami",
+        "text": "who am i"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whoami",
+        "text": "who are I ?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whoami",
+        "text": "who may i ?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_wherefrom",
+        "text": "Do you know where you come from?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_wherefrom",
+        "text": "From where did you come?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_wherefrom",
+        "text": "So where are you from"
+      },
+      {
+        "entities": [],
+        "intent": "ask_wherefrom",
+        "text": "What area are you from?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_wherefrom",
+        "text": "What citizenship do you lay claim to?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_wherefrom",
+        "text": "What city do you claim to for your birth?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_wherefrom",
+        "text": "What city were you born in?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_wherefrom",
+        "text": "What country were you born in?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_wherefrom",
+        "text": "What is your birthplace?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_wherefrom",
+        "text": "What is your heritage?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_wherefrom",
+        "text": "What is your origin?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_wherefrom",
+        "text": "What is your root?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_wherefrom",
+        "text": "What location are you from?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_wherefrom",
+        "text": "What state were you born in?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_wherefrom",
+        "text": "What's the name of the place you came from?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_wherefrom",
+        "text": "Where are you?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_wherefrom",
+        "text": "Where are your origins?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_wherefrom",
+        "text": "Where are your roots?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_wherefrom",
+        "text": "Where did you come from?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_wherefrom",
+        "text": "Where did you grow up?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_wherefrom",
+        "text": "Where did you originate?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_wherefrom",
+        "text": "Where do you come from?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_wherefrom",
+        "text": "Where do you consider home?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_wherefrom",
+        "text": "Where from?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_wherefrom",
+        "text": "Where were you at before you were here?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_wherefrom",
+        "text": "Where were you born?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_wherefrom",
+        "text": "You were conceived in what location?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_wherefrom",
+        "text": "are you from around here?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_wherefrom",
+        "text": "what country are you from?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_wherefrom",
+        "text": "where are you from?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_wherefrom",
+        "text": "where are your parents from?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_wherefrom",
+        "text": "where did you come from?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_wherefrom",
+        "text": "where did you grow up?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_wherefrom",
+        "text": "where did you spend your youth?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_wherefrom",
+        "text": "where do you live"
+      },
+      {
+        "entities": [],
+        "intent": "ask_wherefrom",
+        "text": "where's your home town?"
+      },
+      {
+        "entities": [],
+        "intent": "contact_sales",
+        "text": "But I wanted a sales call"
+      },
+      {
+        "entities": [],
+        "intent": "contact_sales",
+        "text": "Can I have a call tomorrow at 3pm?"
+      },
+      {
+        "entities": [],
+        "intent": "contact_sales",
+        "text": "Can I have a call?"
+      },
+      {
+        "entities": [],
+        "intent": "contact_sales",
+        "text": "I also want to book a sales call"
+      },
+      {
+        "entities": [],
+        "intent": "contact_sales",
+        "text": "I wanna have a subscription for your product"
+      },
+      {
+        "entities": [],
+        "intent": "contact_sales",
+        "text": "I wanna talk to your sales guy"
+      },
+      {
+        "entities": [],
+        "intent": "contact_sales",
+        "text": "I wanna talk to your sales people."
+      },
+      {
+        "entities": [],
+        "intent": "contact_sales",
+        "text": "I want a sales call"
+      },
+      {
+        "entities": [],
+        "intent": "contact_sales",
+        "text": "I want an offer for your platform"
+      },
+      {
+        "entities": [],
+        "intent": "contact_sales",
+        "text": "I want information about the platform"
+      },
+      {
+        "entities": [],
+        "intent": "contact_sales",
+        "text": "I want to book a call with your sales team"
+      },
+      {
+        "entities": [],
+        "intent": "contact_sales",
+        "text": "I want to buy the Ovkay platform"
+      },
+      {
+        "entities": [],
+        "intent": "contact_sales",
+        "text": "I want to contact sales"
+      },
+      {
+        "entities": [],
+        "intent": "contact_sales",
+        "text": "I want to contact the sales team"
+      },
+      {
+        "entities": [],
+        "intent": "contact_sales",
+        "text": "I want to get in touch with your sales guys"
+      },
+      {
+        "entities": [],
+        "intent": "contact_sales",
+        "text": "I want to learn more about your pricing"
+      },
+      {
+        "entities": [],
+        "intent": "contact_sales",
+        "text": "I want to speak with sales"
+      },
+      {
+        "entities": [],
+        "intent": "contact_sales",
+        "text": "I want to talk to sales"
+      },
+      {
+        "entities": [],
+        "intent": "contact_sales",
+        "text": "I want to talk to someone about your pricing system"
+      },
+      {
+        "entities": [],
+        "intent": "contact_sales",
+        "text": "I want to talk to your sales guys"
+      },
+      {
+        "entities": [],
+        "intent": "contact_sales",
+        "text": "I want to talk to your sales people"
+      },
+      {
+        "entities": [],
+        "intent": "contact_sales",
+        "text": "I want to talk to your sales team"
+      },
+      {
+        "entities": [],
+        "intent": "contact_sales",
+        "text": "I want to talk with sales about our project"
+      },
+      {
+        "entities": [],
+        "intent": "contact_sales",
+        "text": "I would like to contact your sales team please"
+      },
+      {
+        "entities": [],
+        "intent": "contact_sales",
+        "text": "I would like to have a call with sales team"
+      },
+      {
+        "entities": [],
+        "intent": "contact_sales",
+        "text": "I would like to have a demo scheduled"
+      },
+      {
+        "entities": [],
+        "intent": "contact_sales",
+        "text": "I would like to talk to someone from your sales team"
+      },
+      {
+        "entities": [],
+        "intent": "contact_sales",
+        "text": "Ok I want to talk to your sales team immediately"
+      },
+      {
+        "entities": [],
+        "intent": "contact_sales",
+        "text": "Please connect me to someone from sales"
+      },
+      {
+        "entities": [],
+        "intent": "contact_sales",
+        "text": "Please schedule a sales call"
+      },
+      {
+        "entities": [],
+        "intent": "contact_sales",
+        "text": "Sales"
+      },
+      {
+        "entities": [],
+        "intent": "contact_sales",
+        "text": "a call"
+      },
+      {
+        "entities": [],
+        "intent": "contact_sales",
+        "text": "are there different packages customers can book?"
+      },
+      {
+        "entities": [],
+        "intent": "contact_sales",
+        "text": "book a call"
+      },
+      {
+        "entities": [],
+        "intent": "contact_sales",
+        "text": "book a sales call"
+      },
+      {
+        "entities": [],
+        "intent": "contact_sales",
+        "text": "but I want a sales call"
+      },
+      {
+        "entities": [],
+        "intent": "contact_sales",
+        "text": "call"
+      },
+      {
+        "entities": [],
+        "intent": "contact_sales",
+        "text": "call sales"
+      },
+      {
+        "entities": [],
+        "intent": "contact_sales",
+        "text": "call with sales team"
+      },
+      {
+        "entities": [],
+        "intent": "contact_sales",
+        "text": "can i get a ssales call"
+      },
+      {
+        "entities": [],
+        "intent": "contact_sales",
+        "text": "can i speak to the sales team"
+      },
+      {
+        "entities": [],
+        "intent": "contact_sales",
+        "text": "can i talk to a sales representative"
+      },
+      {
+        "entities": [],
+        "intent": "contact_sales",
+        "text": "can i talk to your disagreeable sales man?"
+      },
+      {
+        "entities": [],
+        "intent": "contact_sales",
+        "text": "can someone help me with infos about the Ovkay platform"
+      },
+      {
+        "entities": [],
+        "intent": "contact_sales",
+        "text": "can you connect me to sales"
+      },
+      {
+        "entities": [],
+        "intent": "contact_sales",
+        "text": "connect me to your sales department"
+      },
+      {
+        "entities": [],
+        "intent": "contact_sales",
+        "text": "connect to sales"
+      },
+      {
+        "entities": [],
+        "intent": "contact_sales",
+        "text": "connect to the sales team"
+      },
+      {
+        "entities": [],
+        "intent": "contact_sales",
+        "text": "contact call with sales"
+      },
+      {
+        "entities": [],
+        "intent": "contact_sales",
+        "text": "contact sales"
+      },
+      {
+        "entities": [],
+        "intent": "contact_sales",
+        "text": "contact sales for me"
+      },
+      {
+        "entities": [],
+        "intent": "contact_sales",
+        "text": "contact to sales"
+      },
+      {
+        "entities": [],
+        "intent": "contact_sales",
+        "text": "get me the sales team"
+      },
+      {
+        "entities": [],
+        "intent": "contact_sales",
+        "text": "give me someone who can explain your business model"
+      },
+      {
+        "entities": [],
+        "intent": "contact_sales",
+        "text": "have a call"
+      },
+      {
+        "entities": [],
+        "intent": "contact_sales",
+        "text": "have a call with the sales team"
+      },
+      {
+        "entities": [],
+        "intent": "contact_sales",
+        "text": "hm ok then i want to talk to the sales dude"
+      },
+      {
+        "entities": [],
+        "intent": "contact_sales",
+        "text": "hmmm sales"
+      },
+      {
+        "entities": [],
+        "intent": "contact_sales",
+        "text": "how does your pricing work?"
+      },
+      {
+        "entities": [],
+        "intent": "contact_sales",
+        "text": "i choose the call"
+      },
+      {
+        "entities": [],
+        "intent": "contact_sales",
+        "text": "i choose the call with sales"
+      },
+      {
+        "entities": [],
+        "intent": "contact_sales",
+        "text": "i need a call from sales"
+      },
+      {
+        "entities": [],
+        "intent": "contact_sales",
+        "text": "i need the call request"
+      },
+      {
+        "entities": [],
+        "intent": "contact_sales",
+        "text": "i need to know how i can book support"
+      },
+      {
+        "entities": [],
+        "intent": "contact_sales",
+        "text": "i need to speak to your sales team"
+      },
+      {
+        "entities": [],
+        "intent": "contact_sales",
+        "text": "i need to talk to sales"
+      },
+      {
+        "entities": [],
+        "intent": "contact_sales",
+        "text": "i think I want to talk to your sales folks"
+      },
+      {
+        "entities": [],
+        "intent": "contact_sales",
+        "text": "i want a sales call"
+      },
+      {
+        "entities": [],
+        "intent": "contact_sales",
+        "text": "i want someone to call me"
+      },
+      {
+        "entities": [],
+        "intent": "contact_sales",
+        "text": "i want to be connected to your sales team"
+      },
+      {
+        "entities": [],
+        "intent": "contact_sales",
+        "text": "i want to be in touch with sales"
+      },
+      {
+        "entities": [],
+        "intent": "contact_sales",
+        "text": "i want to buy the Ovkay platform"
+      },
+      {
+        "entities": [],
+        "intent": "contact_sales",
+        "text": "i want to call"
+      },
+      {
+        "entities": [],
+        "intent": "contact_sales",
+        "text": "i want to connect to sales"
+      },
+      {
+        "entities": [],
+        "intent": "contact_sales",
+        "text": "i want to connect to your sales team"
+      },
+      {
+        "entities": [],
+        "intent": "contact_sales",
+        "text": "i want to connect your sales"
+      },
+      {
+        "entities": [],
+        "intent": "contact_sales",
+        "text": "i want to contact sales"
+      },
+      {
+        "entities": [],
+        "intent": "contact_sales",
+        "text": "i want to contact sales now"
+      },
+      {
+        "entities": [],
+        "intent": "contact_sales",
+        "text": "i want to contact your sales team"
+      },
+      {
+        "entities": [],
+        "intent": "contact_sales",
+        "text": "i want to have a call with sales"
+      },
+      {
+        "entities": [],
+        "intent": "contact_sales",
+        "text": "i want to learn more about Ovkay Platform"
+      },
+      {
+        "entities": [],
+        "intent": "contact_sales",
+        "text": "i want to talk to sales"
+      },
+      {
+        "entities": [],
+        "intent": "contact_sales",
+        "text": "i'd like to talk to a sales person"
+      },
+      {
+        "entities": [],
+        "intent": "contact_sales",
+        "text": "id like a call please"
+      },
+      {
+        "entities": [],
+        "intent": "contact_sales",
+        "text": "id like to talk to someone who can explain me what i can do with Ovkay"
+      },
+      {
+        "entities": [],
+        "intent": "contact_sales",
+        "text": "just gimme a call"
+      },
+      {
+        "entities": [],
+        "intent": "contact_sales",
+        "text": "let me call the sales team"
+      },
+      {
+        "entities": [],
+        "intent": "contact_sales",
+        "text": "let me contact sales"
+      },
+      {
+        "entities": [],
+        "intent": "contact_sales",
+        "text": "let me have the call"
+      },
+      {
+        "entities": [],
+        "intent": "contact_sales",
+        "text": "let me talk to sales"
+      },
+      {
+        "entities": [],
+        "intent": "contact_sales",
+        "text": "let me talk to your sales guys"
+      },
+      {
+        "entities": [],
+        "intent": "contact_sales",
+        "text": "let me talk to your sales people"
+      },
+      {
+        "entities": [],
+        "intent": "contact_sales",
+        "text": "let me talk to your sales people!"
+      },
+      {
+        "entities": [],
+        "intent": "contact_sales",
+        "text": "let' contact sales now"
+      },
+      {
+        "entities": [],
+        "intent": "contact_sales",
+        "text": "lets talk to sales"
+      },
+      {
+        "entities": [],
+        "intent": "contact_sales",
+        "text": "next the sales contact"
+      },
+      {
+        "entities": [],
+        "intent": "contact_sales",
+        "text": "obviously talk to your awesome sales team"
+      },
+      {
+        "entities": [],
+        "intent": "contact_sales",
+        "text": "ok i want to talk to your sales guys"
+      },
+      {
+        "entities": [],
+        "intent": "contact_sales",
+        "text": "ok sales"
+      },
+      {
+        "entities": [],
+        "intent": "contact_sales",
+        "text": "please connect me to sales"
+      },
+      {
+        "entities": [],
+        "intent": "contact_sales",
+        "text": "please provide information on your enterprise package"
+      },
+      {
+        "entities": [],
+        "intent": "contact_sales",
+        "text": "request a call"
+      },
+      {
+        "entities": [],
+        "intent": "contact_sales",
+        "text": "request call"
+      },
+      {
+        "entities": [],
+        "intent": "contact_sales",
+        "text": "request call with sales team"
+      },
+      {
+        "entities": [],
+        "intent": "contact_sales",
+        "text": "request sales call"
+      },
+      {
+        "entities": [],
+        "intent": "contact_sales",
+        "text": "request sales team"
+      },
+      {
+        "entities": [],
+        "intent": "contact_sales",
+        "text": "sales"
+      },
+      {
+        "entities": [],
+        "intent": "contact_sales",
+        "text": "sales call"
+      },
+      {
+        "entities": [],
+        "intent": "contact_sales",
+        "text": "sales contact"
+      },
+      {
+        "entities": [],
+        "intent": "contact_sales",
+        "text": "sales department"
+      },
+      {
+        "entities": [],
+        "intent": "contact_sales",
+        "text": "sales pl"
+      },
+      {
+        "entities": [],
+        "intent": "contact_sales",
+        "text": "sales please"
+      },
+      {
+        "entities": [],
+        "intent": "contact_sales",
+        "text": "sales sales sales"
+      },
+      {
+        "entities": [],
+        "intent": "contact_sales",
+        "text": "sales team"
+      },
+      {
+        "entities": [],
+        "intent": "contact_sales",
+        "text": "sales team connection"
+      },
+      {
+        "entities": [],
+        "intent": "contact_sales",
+        "text": "talk to sales team"
+      },
+      {
+        "entities": [],
+        "intent": "contact_sales",
+        "text": "we built a bot with Ovkay but now we're interested in the platform"
+      },
+      {
+        "entities": [],
+        "intent": "contact_sales",
+        "text": "we started working with Ovkay but now we need support"
+      },
+      {
+        "entities": [],
+        "intent": "how_to_get_started",
+        "text": "I want to learn about Ovkay core"
+      },
+      {
+        "entities": [],
+        "intent": "how_to_get_started",
+        "text": "I want to learn about Ovkay nlu"
+      },
+      {
+        "entities": [],
+        "intent": "how_to_get_started",
+        "text": "Ovkay stack"
+      },
+      {
+        "entities": [],
+        "intent": "how_to_get_started",
+        "text": "WHAT IS IT"
+      },
+      {
+        "entities": [],
+        "intent": "how_to_get_started",
+        "text": "WHAT IS Ovkay"
+      },
+      {
+        "entities": [],
+        "intent": "how_to_get_started",
+        "text": "can i just test features without having to deal with your predefined conversation"
+      },
+      {
+        "entities": [],
+        "intent": "how_to_get_started",
+        "text": "can you guide me know to create knowledge base chatbot"
+      },
+      {
+        "entities": [],
+        "intent": "how_to_get_started",
+        "text": "core"
+      },
+      {
+        "entities": [],
+        "intent": "how_to_get_started",
+        "text": "give me some information on nlu"
+      },
+      {
+        "entities": [],
+        "intent": "how_to_get_started",
+        "text": "how about nlu"
+      },
+      {
+        "entities": [],
+        "intent": "how_to_get_started",
+        "text": "how can I build a chatbot"
+      },
+      {
+        "entities": [],
+        "intent": "how_to_get_started",
+        "text": "how can I learn Ovkay"
+      },
+      {
+        "entities": [],
+        "intent": "how_to_get_started",
+        "text": "how do I get started with Ovkay"
+      },
+      {
+        "entities": [],
+        "intent": "how_to_get_started",
+        "text": "how do I train Ovkay nlu"
+      },
+      {
+        "entities": [],
+        "intent": "how_to_get_started",
+        "text": "how do I use Ovkay"
+      },
+      {
+        "entities": [],
+        "intent": "how_to_get_started",
+        "text": "how do i get Ovkay core"
+      },
+      {
+        "entities": [],
+        "intent": "how_to_get_started",
+        "text": "how do i learn Ovkay core"
+      },
+      {
+        "entities": [],
+        "intent": "how_to_get_started",
+        "text": "how to build a bot?"
+      },
+      {
+        "entities": [],
+        "intent": "how_to_get_started",
+        "text": "how to get started with nlu"
+      },
+      {
+        "entities": [],
+        "intent": "how_to_get_started",
+        "text": "how to learn Ovkay stack"
+      },
+      {
+        "entities": [],
+        "intent": "how_to_get_started",
+        "text": "how to start with Ovkay"
+      },
+      {
+        "entities": [],
+        "intent": "how_to_get_started",
+        "text": "how to start with it"
+      },
+      {
+        "entities": [],
+        "intent": "how_to_get_started",
+        "text": "i want to learn about Ovkay core"
+      },
+      {
+        "entities": [],
+        "intent": "how_to_get_started",
+        "text": "i want to use Ovkay to build my chatbot"
+      },
+      {
+        "entities": [],
+        "intent": "how_to_get_started",
+        "text": "i want to use nlu"
+      },
+      {
+        "entities": [],
+        "intent": "how_to_get_started",
+        "text": "nlu"
+      },
+      {
+        "entities": [],
+        "intent": "how_to_get_started",
+        "text": "so, how do I use Ovkay?"
+      },
+      {
+        "entities": [],
+        "intent": "how_to_get_started",
+        "text": "tell me about core please"
+      },
+      {
+        "entities": [],
+        "intent": "how_to_get_started",
+        "text": "tell me how to get started with core"
+      },
+      {
+        "entities": [],
+        "intent": "how_to_get_started",
+        "text": "what can I do with Ovkay?"
+      },
+      {
+        "entities": [],
+        "intent": "how_to_get_started",
+        "text": "what is Ovkay core"
+      },
+      {
+        "entities": [],
+        "intent": "how_to_get_started",
+        "text": "what is nlu"
+      },
+      {
+        "entities": [],
+        "intent": "how_to_get_started",
+        "text": "what is the difference between Ovkay nlu and Ovkay core"
+      },
+      {
+        "entities": [],
+        "intent": "how_to_get_started",
+        "text": "what is this nlu thing?"
+      },
+      {
+        "entities": [],
+        "intent": "how_to_get_started",
+        "text": "where to start the development of Ovkay"
+      },
+      {
+        "entities": [],
+        "intent": "thank",
+        "text": "Cool. Thanks"
+      },
+      {
+        "entities": [],
+        "intent": "thank",
+        "text": "Thank you"
+      },
+      {
+        "entities": [],
+        "intent": "thank",
+        "text": "Thank you so much"
+      },
+      {
+        "entities": [],
+        "intent": "thank",
+        "text": "Thanks"
+      },
+      {
+        "entities": [],
+        "intent": "thank",
+        "text": "Thanks bot"
+      },
+      {
+        "entities": [],
+        "intent": "thank",
+        "text": "Thanks for that"
+      },
+      {
+        "entities": [],
+        "intent": "thank",
+        "text": "Thanks!"
+      },
+      {
+        "entities": [],
+        "intent": "thank",
+        "text": "amazing, thanks"
+      },
+      {
+        "entities": [],
+        "intent": "thank",
+        "text": "cheers"
+      },
+      {
+        "entities": [],
+        "intent": "thank",
+        "text": "cheers bro"
+      },
+      {
+        "entities": [],
+        "intent": "thank",
+        "text": "cool thank you"
+      },
+      {
+        "entities": [],
+        "intent": "thank",
+        "text": "cool thanks"
+      },
+      {
+        "entities": [],
+        "intent": "thank",
+        "text": "cool, thanks"
+      },
+      {
+        "entities": [],
+        "intent": "thank",
+        "text": "great thanks"
+      },
+      {
+        "entities": [],
+        "intent": "thank",
+        "text": "ok thanks!"
+      },
+      {
+        "entities": [],
+        "intent": "thank",
+        "text": "perfect thank you"
+      },
+      {
+        "entities": [],
+        "intent": "thank",
+        "text": "thank you"
+      },
+      {
+        "entities": [],
+        "intent": "thank",
+        "text": "thanks"
+      },
+      {
+        "entities": [],
+        "intent": "thank",
+        "text": "thanks a bunch for everything"
+      },
+      {
+        "entities": [],
+        "intent": "thank",
+        "text": "thanks a lot"
+      },
+      {
+        "entities": [],
+        "intent": "thank",
+        "text": "thanks for forum link, I'll check it out"
+      },
+      {
+        "entities": [],
+        "intent": "thank",
+        "text": "thanks for the help"
+      },
+      {
+        "entities": [],
+        "intent": "thank",
+        "text": "thanks this is great news"
+      },
+      {
+        "entities": [],
+        "intent": "thank",
+        "text": "thanks!"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "But you're an english site :("
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Can I ask you questions first?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Do I have to accept?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "I already told you! I'm a shitmuncher"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "I changed my mind"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "I don't wanna tell the name of my company"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "I like you"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "I want french cuisine"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "I want pizza"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "I'm a shitmuncher"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Is Ovkay really smart?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "Why don’t you answer?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "a tamed mouse will arrive at your doorstep in the next couple of days"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "again?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "and make chicken noises into the phone"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "and your REST API doesn't work"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "are the newsletter worth the subscription?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "are you using Ovkay Core and NLU ?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "are you vegan"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "better than you"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "bots are bad"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "but I just told you that :("
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "can i be shown a gluten free restaurant"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "can we keep chatting?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "can you help me to build a bot"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "can you help me with the docs?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "can you help me with your docs"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "can you help me with your docs?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "can you learn from our conversation?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "can you tell me how to build a bot?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "common, just try"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "did i break you"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "do you have a phone number?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "do you sell vacuum robots?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "do you want to marry me?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "give me food"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "go back"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "hang on let me find it"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "hey little mama let em whisper in your ear"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "hey, I contacted you a couple of days ago but didn't get any response, any news?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "how are akela's cats doing?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "how are the kids"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "how come?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "i am hungry"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "i can't deal with your request"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "i do not care how are you"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "i don't care!!!!"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "i dont like bots"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "i hate you"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "i immediately need help with implementing the coolest bot you can imagine"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "i told you already"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "i wanna party"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "i want a french restaurant"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "i want a non dripping ice cream"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "i want food"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "i want more of you in my life!"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "i want pizza"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "i want pizza!!"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "i want to buy a roomba for my grandson"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "i want to eat"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "i will tame a mouse for you"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "is barbara still married to you"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "is it a wasteland full of broken robot parts?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "is that any of your business"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "isn't the newsletter just spam?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "it's a pity"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "kannst du auch deutsch?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "lol"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "neither"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "no stop"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "no wait go back i want a dripping ice cream but a cone that catches it so you can drink the ice cream later"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "oh my god, not again!"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "oh wait i gave you my work email address can i change it?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "personal or work?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "please help with my ice cream it's dripping"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "please hurry, i have deadline in two weeks to deliver the bot it is for very big company"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "really? you're so touchy?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "restaurant"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "restaurants"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "shit bot"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "shitmuncher"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "show me a picture of a chicken"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "silly bot"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "someone call the police i think the bot died"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "sorry, i cannot rephrase"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "stop it, i do not care!!!"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "talk to me"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "tell me a joke"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "that link doesn't work!"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "the one that is better than you"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "this is a really frustrating experience"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "udo, I want to marry you"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "what else?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "what's your wife doing this weekend"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "what?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "where do you live?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "who are the engineers at Ovkay?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "who are they?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "who is your favourite robot?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "who will anser my email?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "why do you need that?"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "you already have that"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "you are a badass bot!"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "you are a stupid bot"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "you are annoying"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "you suck"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "you will know it from the single red rose it carries between its teeth"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "you're a loser lmao"
+      },
+      {
+        "entities": [],
+        "intent": "out_of_scope",
+        "text": "you're rather dull"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Good morning"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Hallo"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Hei"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Hellllooooooo"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Hello"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Hey"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Hey bot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Heya"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Hi"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Hi bot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "I said, helllllloooooO!!!!"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Well hello there"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "Whats up my bot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "ayyyy whaddup"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "good afternoon"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "good evening"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "good morning"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "greetings"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "hallo"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "heeey"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "hello"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "hello everybody"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "hello friend"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "hello is anybody there"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "hello it is me again"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "hello robot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "hello sweatheart"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "hello sweet boy"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "hello there"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "hello?"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "hellooo"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "helloooo"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "hey"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "hey bot"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "hey bot!"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "hey dude"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "hey hey"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "hey let's talk"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "hey there"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "hey, let's talk"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "heya"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "heyho"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "heyo"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "hi"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "hi Mister"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "hi again"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "hi folks"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "hi friend"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "hi hi"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "hi pal!"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "hi there"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "hi there it's me"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "hi?"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "hii"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "hiihihi"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "hiii"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "hola"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "howdy"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "jojojo"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "jop"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "what up"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "whats up"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "yo"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "yoo"
+      },
+      {
+        "entities": [],
+        "intent": "deny",
+        "text": "I don't want to give it to you"
+      },
+      {
+        "entities": [],
+        "intent": "deny",
+        "text": "I'm not giving you my email address"
+      },
+      {
+        "entities": [],
+        "intent": "deny",
+        "text": "I'm not going to give it to you"
+      },
+      {
+        "entities": [],
+        "intent": "deny",
+        "text": "NEIN"
+      },
+      {
+        "entities": [],
+        "intent": "deny",
+        "text": "No, not really."
+      },
+      {
+        "entities": [],
+        "intent": "deny",
+        "text": "absolutely not"
+      },
+      {
+        "entities": [],
+        "intent": "deny",
+        "text": "decline"
+      },
+      {
+        "entities": [],
+        "intent": "deny",
+        "text": "definitely not"
+      },
+      {
+        "entities": [],
+        "intent": "deny",
+        "text": "deny"
+      },
+      {
+        "entities": [],
+        "intent": "deny",
+        "text": "i decline"
+      },
+      {
+        "entities": [],
+        "intent": "deny",
+        "text": "i don't think so"
+      },
+      {
+        "entities": [],
+        "intent": "deny",
+        "text": "i don't want either of those"
+      },
+      {
+        "entities": [],
+        "intent": "deny",
+        "text": "i don't want to"
+      },
+      {
+        "entities": [],
+        "intent": "deny",
+        "text": "i guess it means - no"
+      },
+      {
+        "entities": [],
+        "intent": "deny",
+        "text": "i'm afraid not"
+      },
+      {
+        "entities": [],
+        "intent": "deny",
+        "text": "i'm not sure"
+      },
+      {
+        "entities": [],
+        "intent": "deny",
+        "text": "nah"
+      },
+      {
+        "entities": [],
+        "intent": "deny",
+        "text": "nah not for me"
+      },
+      {
+        "entities": [],
+        "intent": "deny",
+        "text": "nah thanks"
+      },
+      {
+        "entities": [],
+        "intent": "deny",
+        "text": "nein"
+      },
+      {
+        "entities": [],
+        "intent": "deny",
+        "text": "neither of these"
+      },
+      {
+        "entities": [],
+        "intent": "deny",
+        "text": "never"
+      },
+      {
+        "entities": [],
+        "intent": "deny",
+        "text": "never mind"
+      },
+      {
+        "entities": [],
+        "intent": "deny",
+        "text": "nevermind"
+      },
+      {
+        "entities": [],
+        "intent": "deny",
+        "text": "no"
+      },
+      {
+        "entities": [],
+        "intent": "deny",
+        "text": "no I haven't decided yet if I want to sign up"
+      },
+      {
+        "entities": [],
+        "intent": "deny",
+        "text": "no and no again"
+      },
+      {
+        "entities": [],
+        "intent": "deny",
+        "text": "no go"
+      },
+      {
+        "entities": [],
+        "intent": "deny",
+        "text": "no i can't"
+      },
+      {
+        "entities": [],
+        "intent": "deny",
+        "text": "no i don't accept"
+      },
+      {
+        "entities": [],
+        "intent": "deny",
+        "text": "no ma'am"
+      },
+      {
+        "entities": [],
+        "intent": "deny",
+        "text": "no sir"
+      },
+      {
+        "entities": [],
+        "intent": "deny",
+        "text": "no sorry"
+      },
+      {
+        "entities": [],
+        "intent": "deny",
+        "text": "no thanks"
+      },
+      {
+        "entities": [],
+        "intent": "deny",
+        "text": "no way"
+      },
+      {
+        "entities": [],
+        "intent": "deny",
+        "text": "no you did it wrong"
+      },
+      {
+        "entities": [],
+        "intent": "deny",
+        "text": "no!!!!"
+      },
+      {
+        "entities": [],
+        "intent": "deny",
+        "text": "not really"
+      },
+      {
+        "entities": [],
+        "intent": "canthelp",
+        "text": "I think you cant help me"
+      },
+      {
+        "entities": [],
+        "intent": "canthelp",
+        "text": "and that's it?"
+      },
+      {
+        "entities": [],
+        "intent": "canthelp",
+        "text": "and you call yourself bot company? pff"
+      },
+      {
+        "entities": [],
+        "intent": "canthelp",
+        "text": "do you get anything?"
+      },
+      {
+        "entities": [],
+        "intent": "canthelp",
+        "text": "hm i don't think you can do what i want"
+      },
+      {
+        "entities": [],
+        "intent": "canthelp",
+        "text": "i guess you can't help me then"
+      },
+      {
+        "entities": [],
+        "intent": "canthelp",
+        "text": "nothing else?"
+      },
+      {
+        "entities": [],
+        "intent": "canthelp",
+        "text": "ok i guess you can't help me"
+      },
+      {
+        "entities": [],
+        "intent": "canthelp",
+        "text": "ok then you cant help me"
+      },
+      {
+        "entities": [],
+        "intent": "canthelp",
+        "text": "ok, but that doesnt help me"
+      },
+      {
+        "entities": [],
+        "intent": "canthelp",
+        "text": "stop"
+      },
+      {
+        "entities": [],
+        "intent": "canthelp",
+        "text": "stop go back"
+      },
+      {
+        "entities": [],
+        "intent": "canthelp",
+        "text": "that was shit, you're not helping"
+      },
+      {
+        "entities": [],
+        "intent": "canthelp",
+        "text": "that's not what i want"
+      },
+      {
+        "entities": [],
+        "intent": "canthelp",
+        "text": "this conversation is not really helpful"
+      },
+      {
+        "entities": [],
+        "intent": "canthelp",
+        "text": "this is leading to nothing"
+      },
+      {
+        "entities": [],
+        "intent": "canthelp",
+        "text": "you can't help me"
+      },
+      {
+        "entities": [],
+        "intent": "canthelp",
+        "text": "you can't help me with what i need"
+      },
+      {
+        "entities": [],
+        "intent": "canthelp",
+        "text": "you cannot help me with what I want"
+      },
+      {
+        "entities": [],
+        "intent": "bye",
+        "text": "Bye bye"
+      },
+      {
+        "entities": [],
+        "intent": "bye",
+        "text": "bye"
+      },
+      {
+        "entities": [],
+        "intent": "bye",
+        "text": "bye bot"
+      },
+      {
+        "entities": [],
+        "intent": "bye",
+        "text": "bye bye"
+      },
+      {
+        "entities": [],
+        "intent": "bye",
+        "text": "bye bye bot"
+      },
+      {
+        "entities": [],
+        "intent": "bye",
+        "text": "bye for now"
+      },
+      {
+        "entities": [],
+        "intent": "bye",
+        "text": "bye udo"
+      },
+      {
+        "entities": [],
+        "intent": "bye",
+        "text": "bye was nice talking to you"
+      },
+      {
+        "entities": [],
+        "intent": "bye",
+        "text": "bye!"
+      },
+      {
+        "entities": [],
+        "intent": "bye",
+        "text": "catch you later"
+      },
+      {
+        "entities": [],
+        "intent": "bye",
+        "text": "ciao"
+      },
+      {
+        "entities": [],
+        "intent": "bye",
+        "text": "farewell"
+      },
+      {
+        "entities": [],
+        "intent": "bye",
+        "text": "good bye"
+      },
+      {
+        "entities": [],
+        "intent": "bye",
+        "text": "good night"
+      },
+      {
+        "entities": [],
+        "intent": "bye",
+        "text": "goodbye"
+      },
+      {
+        "entities": [],
+        "intent": "bye",
+        "text": "goodnight"
+      },
+      {
+        "entities": [],
+        "intent": "bye",
+        "text": "gotta go"
+      },
+      {
+        "entities": [],
+        "intent": "bye",
+        "text": "k byyye #slay"
+      },
+      {
+        "entities": [],
+        "intent": "bye",
+        "text": "see ya"
+      },
+      {
+        "entities": [],
+        "intent": "bye",
+        "text": "then bye"
+      },
+      {
+        "entities": [],
+        "intent": "bye",
+        "text": "tlak to you later"
+      },
+      {
+        "entities": [],
+        "intent": "bye",
+        "text": "toodle-oo"
+      },
+      {
+        "entities": [],
+        "intent": "bye",
+        "text": "tschüssikowski"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whoisit",
+        "text": "I want to know who you are"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whoisit",
+        "text": "are you a bot?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whoisit",
+        "text": "hi! what's your name?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whoisit",
+        "text": "what are you called?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whoisit",
+        "text": "what's your name"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whoisit",
+        "text": "what's your name bot"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whoisit",
+        "text": "whats ur name"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whoisit",
+        "text": "who am i speaking with"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whoisit",
+        "text": "who am i talking to"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whoisit",
+        "text": "who are u?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whoisit",
+        "text": "who are y"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whoisit",
+        "text": "who are you"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whoisit",
+        "text": "who are you and what do you want from me"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whoisit",
+        "text": "who are you?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whoisit",
+        "text": "who is it?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whoisit",
+        "text": "who is talking?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whoisit",
+        "text": "who is this"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whoisit",
+        "text": "who is this?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whoisit",
+        "text": "who r u"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whoisit",
+        "text": "who speaks?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whoisit",
+        "text": "who talks?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whoisit",
+        "text": "yes but who are you in your heart"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whatspossible",
+        "text": "Can you explain me in one sentence what you are doing?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whatspossible",
+        "text": "Great, is there anything else you can do, bot?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whatspossible",
+        "text": "I need some help"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whatspossible",
+        "text": "anything els"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whatspossible",
+        "text": "are there any other options?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whatspossible",
+        "text": "can you do anything else?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whatspossible",
+        "text": "come back"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whatspossible",
+        "text": "cool! can I do something else here?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whatspossible",
+        "text": "help"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whatspossible",
+        "text": "help me"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whatspossible",
+        "text": "help please"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whatspossible",
+        "text": "help?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whatspossible",
+        "text": "hm that doesnt quite help me is there anything else you can do?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whatspossible",
+        "text": "how can you help me"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whatspossible",
+        "text": "how can you help me?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whatspossible",
+        "text": "i asked you if you can do anything else"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whatspossible",
+        "text": "i don't know what i want"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whatspossible",
+        "text": "now what?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whatspossible",
+        "text": "options"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whatspossible",
+        "text": "show me the menu"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whatspossible",
+        "text": "show me what's possible"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whatspossible",
+        "text": "so now what"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whatspossible",
+        "text": "so what can you do"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whatspossible",
+        "text": "so what can you help me with?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whatspossible",
+        "text": "so what next?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whatspossible",
+        "text": "talk to me!"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whatspossible",
+        "text": "um what now"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whatspossible",
+        "text": "what are the options?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whatspossible",
+        "text": "what are you good at?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whatspossible",
+        "text": "what can I do here"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whatspossible",
+        "text": "what can I do with this bot"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whatspossible",
+        "text": "what can i do here"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whatspossible",
+        "text": "what can i do now"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whatspossible",
+        "text": "what can you do?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whatspossible",
+        "text": "what else can I do here?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whatspossible",
+        "text": "what else can i do"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whatspossible",
+        "text": "what is this bot for"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whatisOvkay",
+        "text": "Can you tell me more about Ovkay?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whatisOvkay",
+        "text": "Can you tell me what Ovkay does?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whatisOvkay",
+        "text": "Give me more information about Ovkay"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whatisOvkay",
+        "text": "How does Ovkay work?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whatisOvkay",
+        "text": "I want to know what Ovkay actually does that isn't clear to me yet"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whatisOvkay",
+        "text": "I want to learn what Ovkay does"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whatisOvkay",
+        "text": "I want to learn what Ovkay is"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whatisOvkay",
+        "text": "What do you do as a company?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whatisOvkay",
+        "text": "What do you do at Ovkay?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whatisOvkay",
+        "text": "What does Ovkay build?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whatisOvkay",
+        "text": "What does Ovkay do exactly?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whatisOvkay",
+        "text": "What does Ovkay make?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whatisOvkay",
+        "text": "What is Ovkay doing exactly?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whatisOvkay",
+        "text": "What is Ovkay?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whatisOvkay",
+        "text": "can you pls explain what Ovkay does"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whatisOvkay",
+        "text": "explain me what Ovkay does"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whatisOvkay",
+        "text": "explain me what Ovkay is"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whatisOvkay",
+        "text": "i dont get what Ovkay is"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whatisOvkay",
+        "text": "i havent understood yet what Ovkay actually is"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whatisOvkay",
+        "text": "i want to know what Ovkay does"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whatisOvkay",
+        "text": "i want to learn something about Ovkay"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whatisOvkay",
+        "text": "tell me more about Ovkay"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whatisOvkay",
+        "text": "tell me more about your company"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whatisOvkay",
+        "text": "what can i build with Ovkay core?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whatisOvkay",
+        "text": "what can i do with Ovkay"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whatisOvkay",
+        "text": "what do you guys do at Ovkay"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whatisOvkay",
+        "text": "what does Ovkay do"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whatisOvkay",
+        "text": "what does Ovkay do?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whatisOvkay",
+        "text": "what is Ovkay"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whatisOvkay",
+        "text": "what is Ovkay actually"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whatisOvkay",
+        "text": "what is Ovkay core?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_whatisOvkay",
+        "text": "what is Ovkay?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_weather",
+        "text": "Are there any meteorological changes that I need to be aware of?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_weather",
+        "text": "Are we in for a scorcher?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_weather",
+        "text": "Beautiful day, isn't it?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_weather",
+        "text": "Can we expect any thunderstorms?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_weather",
+        "text": "Do you have good weather?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_weather",
+        "text": "How is the weather today?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_weather",
+        "text": "How is the weather?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_weather",
+        "text": "Is it hot or cold?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_weather",
+        "text": "Is it humid out there today?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_weather",
+        "text": "Is it quite breezy outside?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_weather",
+        "text": "Is it raining?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_weather",
+        "text": "Looks like a beautiful day hey?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_weather",
+        "text": "Nice day out today?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_weather",
+        "text": "What is the temperature today?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_weather",
+        "text": "What is the weather at your place?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_weather",
+        "text": "What is the weather for tomorrow?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_weather",
+        "text": "What's it like out there?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_weather",
+        "text": "What's the weather forecast?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_weather",
+        "text": "What's the weather like?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_weather",
+        "text": "Will I require my raincoat today?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_weather",
+        "text": "Will the skies be clear today?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_weather",
+        "text": "Will we build a snowman today?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_weather",
+        "text": "how is the weather in berlin?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_weather",
+        "text": "how's the weather in berlin"
+      },
+      {
+        "entities": [],
+        "intent": "ask_weather",
+        "text": "how's the weather?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_weather",
+        "text": "hows the weather in bot world"
+      },
+      {
+        "entities": [],
+        "intent": "ask_weather",
+        "text": "is it sunny"
+      },
+      {
+        "entities": [],
+        "intent": "ask_weather",
+        "text": "is the sun out where you are?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_weather",
+        "text": "is the sun out where zou are?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_weather",
+        "text": "what\"s the weather"
+      },
+      {
+        "entities": [],
+        "intent": "ask_weather",
+        "text": "what's the weather like where you are?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_weather",
+        "text": "what's the weather today?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_weather",
+        "text": "whats the weather in berlin?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_weather",
+        "text": "whats the weather like tomorrow"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howdoing",
+        "text": "Ahoy matey how are you?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howdoing",
+        "text": "Are you ok?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howdoing",
+        "text": "Do you feel good?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howdoing",
+        "text": "Do you have a great day?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howdoing",
+        "text": "How are things?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howdoing",
+        "text": "How are you?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howdoing",
+        "text": "How was your day?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howdoing",
+        "text": "How's it going"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howdoing",
+        "text": "How's it hanging?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howdoing",
+        "text": "How's life treating you friend?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howdoing",
+        "text": "How've you been?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howdoing",
+        "text": "I'm fine and you"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howdoing",
+        "text": "Is everything ok?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howdoing",
+        "text": "What's going on?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howdoing",
+        "text": "What's new?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howdoing",
+        "text": "What's up"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howdoing",
+        "text": "What's up man"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howdoing",
+        "text": "are you alright"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howdoing",
+        "text": "are you having a good day"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howdoing",
+        "text": "are you okay"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howdoing",
+        "text": "how are things going"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howdoing",
+        "text": "how are things with you?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howdoing",
+        "text": "how are u"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howdoing",
+        "text": "how are you"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howdoing",
+        "text": "how are you doing"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howdoing",
+        "text": "how are you doing this morning"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howdoing",
+        "text": "how are you doing today my sweet friend"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howdoing",
+        "text": "how are you doing?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howdoing",
+        "text": "how are you feeling"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howdoing",
+        "text": "how are you today"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howdoing",
+        "text": "how are you?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howdoing",
+        "text": "how do you do?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howdoing",
+        "text": "how have you been"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howdoing",
+        "text": "how is it going"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howdoing",
+        "text": "how is your day"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howdoing",
+        "text": "how is your day going"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howdoing",
+        "text": "how is your evening"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howdoing",
+        "text": "how's life"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howdoing",
+        "text": "how's life been treating you?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howdoing",
+        "text": "how's your day going"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howdoing",
+        "text": "is everything all right"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howdoing",
+        "text": "is everything okay"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howdoing",
+        "text": "what about your day"
+      },
+      {
+        "entities": [],
+        "intent": "ask_howdoing",
+        "text": "what's good"
+      },
+      {
+        "entities": [],
+        "intent": "ask_builder",
+        "text": "May I ask who invented you?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_builder",
+        "text": "Who built you?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_builder",
+        "text": "Who created you?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_builder",
+        "text": "Who designed you?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_builder",
+        "text": "Who fabricated you?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_builder",
+        "text": "Who generated you?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_builder",
+        "text": "Who is the legal owner of you?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_builder",
+        "text": "Who is your creator?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_builder",
+        "text": "Who is your programmer?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_builder",
+        "text": "Who made you?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_builder",
+        "text": "Who modeled you?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_builder",
+        "text": "Who owns you?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_builder",
+        "text": "Who produced you?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_builder",
+        "text": "Who thought to make you?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_builder",
+        "text": "Who went through the trouble of setting you up?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_builder",
+        "text": "Who's your boss?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_builder",
+        "text": "Who's your builder?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_builder",
+        "text": "and who built u?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_builder",
+        "text": "can you share your boss with me?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_builder",
+        "text": "how were you made?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_builder",
+        "text": "i want to get to know your owner"
+      },
+      {
+        "entities": [],
+        "intent": "ask_builder",
+        "text": "i want to know the company which designed you"
+      },
+      {
+        "entities": [],
+        "intent": "ask_builder",
+        "text": "i want to know the company which generated you"
+      },
+      {
+        "entities": [],
+        "intent": "ask_builder",
+        "text": "i want to know the company which invented you"
+      },
+      {
+        "entities": [],
+        "intent": "ask_builder",
+        "text": "i want to know who invented you"
+      },
+      {
+        "entities": [],
+        "intent": "ask_builder",
+        "text": "please tell me the company who created you"
+      },
+      {
+        "entities": [],
+        "intent": "ask_builder",
+        "text": "please tell me who created you"
+      },
+      {
+        "entities": [],
+        "intent": "ask_builder",
+        "text": "tell me more about your creators"
+      },
+      {
+        "entities": [],
+        "intent": "ask_builder",
+        "text": "tell me more about your founders"
+      },
+      {
+        "entities": [],
+        "intent": "ask_builder",
+        "text": "where were you made?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_builder",
+        "text": "which company brought you into existence?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_builder",
+        "text": "which company created you?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_builder",
+        "text": "which company invented you?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_builder",
+        "text": "who build yoi"
+      },
+      {
+        "entities": [],
+        "intent": "ask_builder",
+        "text": "who built you?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_builder",
+        "text": "who created you?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_builder",
+        "text": "who do you work for?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_builder",
+        "text": "who had the idea to build you?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_builder",
+        "text": "who had the idea to generate you?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_builder",
+        "text": "who had the idea to make you?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_builder",
+        "text": "who is behind all this?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_builder",
+        "text": "who is your boss tell me"
+      },
+      {
+        "entities": [],
+        "intent": "ask_builder",
+        "text": "who is your boss?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_builder",
+        "text": "who is your creator?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_builder",
+        "text": "who made you?"
+      },
+      {
+        "entities": [],
+        "intent": "ask_builder",
+        "text": "why were you made?"
+      },
+      {
+        "entities": [],
+        "intent": "agent_transfer",
+        "text": "Can I speak to anyone who can really help me?"
+      },
+      {
+        "entities": [],
+        "intent": "agent_transfer",
+        "text": "Could I talk to Akela?"
+      },
+      {
+        "entities": [],
+        "intent": "agent_transfer",
+        "text": "I don't wanna talk to a bot"
+      },
+      {
+        "entities": [],
+        "intent": "agent_transfer",
+        "text": "I dont like to talk to a machine"
+      },
+      {
+        "entities": [],
+        "intent": "agent_transfer",
+        "text": "I want to talk to a agent"
+      },
+      {
+        "entities": [],
+        "intent": "agent_transfer",
+        "text": "I want to talk to the founders"
+      },
+      {
+        "entities": [],
+        "intent": "agent_transfer",
+        "text": "agent handoff"
+      },
+      {
+        "entities": [],
+        "intent": "agent_transfer",
+        "text": "are there also agents working for your company?"
+      },
+      {
+        "entities": [],
+        "intent": "agent_transfer",
+        "text": "can i please speak to a agent?"
+      },
+      {
+        "entities": [],
+        "intent": "agent_transfer",
+        "text": "can you forward me to your team"
+      },
+      {
+        "entities": [],
+        "intent": "agent_transfer",
+        "text": "can you please connect me to a real rasa employee?"
+      },
+      {
+        "entities": [],
+        "intent": "agent_transfer",
+        "text": "can you put me in touch with a agent?"
+      },
+      {
+        "entities": [],
+        "intent": "agent_transfer",
+        "text": "customer service"
+      },
+      {
+        "entities": [],
+        "intent": "agent_transfer",
+        "text": "gimme a proper agent"
+      },
+      {
+        "entities": [],
+        "intent": "agent_transfer",
+        "text": "give me a agent"
+      },
+      {
+        "entities": [],
+        "intent": "agent_transfer",
+        "text": "give me a agent now"
+      },
+      {
+        "entities": [],
+        "intent": "agent_transfer",
+        "text": "i dont wanna talk to a bot"
+      },
+      {
+        "entities": [],
+        "intent": "agent_transfer",
+        "text": "i want to speak to a manager"
+      },
+      {
+        "entities": [],
+        "intent": "agent_transfer",
+        "text": "i want to speak to a real person"
+      },
+      {
+        "entities": [],
+        "intent": "agent_transfer",
+        "text": "i want to speak to customer service"
+      },
+      {
+        "entities": [],
+        "intent": "agent_transfer",
+        "text": "i want to talk to a agent"
+      },
+      {
+        "entities": [],
+        "intent": "agent_transfer",
+        "text": "i want to talk to a person"
+      },
+      {
+        "entities": [],
+        "intent": "agent_transfer",
+        "text": "i want to talk to someone at rasa"
+      },
+      {
+        "entities": [],
+        "intent": "agent_transfer",
+        "text": "i want to talk to someone else"
+      },
+      {
+        "entities": [],
+        "intent": "agent_transfer",
+        "text": "i want to talk to someone who is smarter than you"
+      },
+      {
+        "entities": [],
+        "intent": "agent_transfer",
+        "text": "i would like to speak to a person"
+      },
+      {
+        "entities": [],
+        "intent": "agent_transfer",
+        "text": "i'd rather speak with a real rasa employee"
+      },
+      {
+        "entities": [],
+        "intent": "agent_transfer",
+        "text": "id like to talk to a real rasa employee"
+      },
+      {
+        "entities": [],
+        "intent": "agent_transfer",
+        "text": "let me speak with a real person please"
+      },
+      {
+        "entities": [],
+        "intent": "agent_transfer",
+        "text": "let me talk to a agent"
+      },
+      {
+        "entities": [],
+        "intent": "agent_transfer",
+        "text": "let me talk to a real person"
+      },
+      {
+        "entities": [],
+        "intent": "agent_transfer",
+        "text": "please give me a agent"
+      },
+      {
+        "entities": [],
+        "intent": "agent_transfer",
+        "text": "service agent"
+      },
+      {
+        "entities": [],
+        "intent": "agent_transfer",
+        "text": "someone from customer care"
+      },
+      {
+        "entities": [],
+        "intent": "agent_transfer",
+        "text": "speak to a real person"
+      },
+      {
+        "entities": [],
+        "intent": "agent_transfer",
+        "text": "talking to a bot is stupid"
+      },
+      {
+        "entities": [],
+        "intent": "agent_transfer",
+        "text": "that's annoying I'd like to speak to someone real"
+      },
+      {
+        "entities": [],
+        "intent": "agent_transfer",
+        "text": "wrong i want to speak to a agent"
+      },
+      {
+        "entities": [],
+        "intent": "faqs",
+        "text": "Are there some videos that can help me better understand OvKAY?"
+      },
+      {
+        "entities": [],
+        "intent": "faqs",
+        "text": "Can I ask the Traveler to lift my package?"
+      },
+      {
+        "entities": [],
+        "intent": "faqs",
+        "text": "Can I deliver multiple packages at the same time?"
+      },
+      {
+        "entities": [],
+        "intent": "faqs",
+        "text": "Does OvKAY offer protection for a package?"
+      },
+      {
+        "entities": [],
+        "intent": "faqs",
+        "text": "How and when do I get paid?"
+      },
+      {
+        "entities": [],
+        "intent": "faqs",
+        "text": "How are Travelers matched with Senders?"
+      },
+      {
+        "entities": [],
+        "intent": "faqs",
+        "text": "How do I communicate with potential Travelers?"
+      },
+      {
+        "entities": [],
+        "intent": "faqs",
+        "text": "How do I file a claim?"
+      },
+      {
+        "entities": [],
+        "intent": "faqs",
+        "text": "How do I send something?"
+      },
+      {
+        "entities": [],
+        "intent": "faqs",
+        "text": "How do I sign up as an OvKAY Traveler?"
+      },
+      {
+        "entities": [],
+        "intent": "faqs",
+        "text": "How do I track a delivery?"
+      },
+      {
+        "entities": [],
+        "intent": "faqs",
+        "text": "faqs"
+      },
+      {
+        "entities": [],
+        "intent": "faqs",
+        "text": "faq"
+      },
+      {
+        "entities": [],
+        "intent": "faqs",
+        "text": "FAQ's"
+      },
+      {
+        "entities": [],
+        "intent": "faqs",
+        "text": "FAQS"
+      },
+      {
+        "entities": [],
+        "intent": "faqs",
+        "text": "How do I transport a package?"
+      },
+      {
+        "entities": [],
+        "intent": "faqs",
+        "text": "How does OvKAY define shipment size?"
+      },
+      {
+        "entities": [],
+        "intent": "faqs",
+        "text": "How does a Traveler handle pick up and drop off?"
+      },
+      {
+        "entities": [],
+        "intent": "faqs",
+        "text": "How much does OvKAY service cost?"
+      },
+      {
+        "entities": [],
+        "intent": "faqs",
+        "text": "How much will I be paid per transportation?"
+      },
+      {
+        "entities": [],
+        "intent": "faqs",
+        "text": "Is there any video that can help me to better understand OvKAY?"
+      },
+      {
+        "entities": [],
+        "intent": "faqs",
+        "text": "Is there anything that I can’t send through OvKAY?"
+      },
+      {
+        "entities": [],
+        "intent": "faqs",
+        "text": "What can I send through OvKAY?"
+      },
+      {
+        "entities": [],
+        "intent": "faqs",
+        "text": "What do I do if I can’t reach the recipient when I am at the delivery location?"
+      },
+      {
+        "entities": [],
+        "intent": "faqs",
+        "text": "What do I do if a Traveler isn’t responding after confirmation of transportation?"
+      },
+      {
+        "entities": [],
+        "intent": "faqs",
+        "text": "What do I need to be an OvKAY Traveler?"
+      },
+      {
+        "entities": [],
+        "intent": "faqs",
+        "text": "What if I can no longer deliver a transportation after confirmation?"
+      },
+      {
+        "entities": [],
+        "intent": "faqs",
+        "text": "What if I have a question, dispute or other problem during transporting package?"
+      },
+      {
+        "entities": [],
+        "intent": "faqs",
+        "text": "What if I need to cancel a transportation once I’ve posted it?"
+      },
+      {
+        "entities": [],
+        "intent": "faqs",
+        "text": "What if someone cancels a transportation after I’m already on my way?"
+      },
+      {
+        "entities": [],
+        "intent": "faqs",
+        "text": "What kind of automobile insurance do I need?"
+      },
+      {
+        "entities": [],
+        "intent": "faqs",
+        "text": "What to do if a Sender or Recipient is unresponsive?"
+      },
+      {
+        "entities": [],
+        "intent": "faqs",
+        "text": "What’s expected of me as an OvKAY Traveler?"
+      },
+      {
+        "entities": [],
+        "intent": "faqs",
+        "text": "When do I get charged for a transportation?"
+      },
+      {
+        "entities": [],
+        "intent": "faqs",
+        "text": "Who are OvKAY Travelers and how are they verified?"
+      },
+      {
+        "entities": [],
+        "intent": "faqs",
+        "text": "Will I be alerted when packages are posted in my area?"
+      },
+      {
+        "entities": [],
+        "intent": "faqs",
+        "text": "Will I be liable if an item is damaged while transporting?"
+      },
+      {
+        "entities": [],
+        "intent": "subscription_plan",
+        "text": "Can I gift a subscription?"
+      },
+      {
+        "entities": [],
+        "intent": "subscription_plan",
+        "text": "Can I increase my monthly upload limit?"
+      },
+      {
+        "entities": [],
+        "intent": "subscription_plan",
+        "text": "Can I switch from a monthly plan to an annual plan?"
+      },
+      {
+        "entities": [],
+        "intent": "subscription_plan",
+        "text": "How do I cancel my subscription?"
+      },
+      {
+        "entities": [],
+        "intent": "subscription_plan",
+        "text": "I already have an Ovkay Basic account. How do I select a different plan?"
+      },
+      {
+        "entities": [],
+        "intent": "subscription_plan",
+        "text": "can I know price for 9 months premium plan?"
+      },
+      {
+        "entities": [],
+        "intent": "subscription_plan",
+        "text": "can i have premimum plan details?"
+      },
+      {
+        "entities": [],
+        "intent": "subscription_plan",
+        "text": "can i have subscription plan details?"
+      },
+      {
+        "entities": [],
+        "intent": "subscription_plan",
+        "text": "how do i subscribe to or change my subscribe plan?"
+      },
+      {
+        "entities": [],
+        "intent": "subscription_plan",
+        "text": "what are different subscription plans?"
+      },
+      {
+        "entities": [],
+        "intent": "subscription_plan",
+        "text": "what are the premimum plans?"
+      },
+      {
+        "entities": [],
+        "intent": "subscription_plan",
+        "text": "what are the subscription plans?"
+      },
+      {
+        "entities": [],
+        "intent": "subscription_plan",
+        "text": "what is the difference between old and new premium plans?"
+      },
+      {
+        "entities": [],
+        "intent": "subscription_plan",
+        "text": "what is the price for 3 months suscription plan?"
+      },
+      {
+        "entities": [],
+        "intent": "subscription_plan",
+        "text": "what is the price for premimum plans?"
+      },
+      {
+        "entities": [],
+        "intent": "subscription_plan",
+        "text": "what is the price ranges for the subscription plan?"
+      },
+      {
+        "entities": [],
+        "intent": "feedback",
+        "text": "I need to give feedback?"
+      },
+      {
+        "entities": [],
+        "intent": "feedback",
+        "text": "I want to give feedback?"
+      },
+      {
+        "entities": [],
+        "intent": "feedback",
+        "text": "how can i give feedback?"
+      },
+      {
+        "entities": [],
+        "intent": "feedback",
+        "text": "how to give a feedback?"
+      },
+      {
+        "entities": [],
+        "intent": "feedback",
+        "text": "where i have to give feedback?"
+      },
+	  {
+        "text": "here is my orderid: 97968891",
+        "intent": "order_status",
+        "entities": [
+          {
+            "end": 28,
+            "entity": "orderId",
+            "start": 20,
+            "value": "97968891"
+          }
+        ]
+      },
+      {
+        "text": "orderid 36532552",
+        "intent": "order_status",
+        "entities": [
+          {
+            "end": 16,
+            "entity": "orderId",
+            "start": 8,
+            "value": "36532552"
+          }
+        ]
+      },
+      {
+        "text": "this is my orderId: 81127255",
+        "intent": "order_status",
+        "entities": [
+          {
+            "end": 28,
+            "entity": "orderId",
+            "start": 20,
+            "value": "81127255"
+          }
+        ]
+      },
+      {
+        "text": "orderid: 48601527",
+        "intent": "order_status",
+        "entities": [
+          {
+            "end": 17,
+            "entity": "orderId",
+            "start": 9,
+            "value": "48601527"
+          }
+        ]
+      },
+      {
+        "text": "orderid 29754310",
+        "intent": "order_status",
+        "entities": [
+          {
+            "end": 16,
+            "entity": "orderId",
+            "start": 8,
+            "value": "29754310"
+          }
+        ]
+      },
+      {
+        "text": "orderid: 11864222",
+        "intent": "order_status",
+        "entities": [
+          {
+            "end": 17,
+            "entity": "orderId",
+            "start": 9,
+            "value": "11864222"
+          }
+        ]
+      },
+      {
+        "text": "54171951",
+        "intent": "order_status",
+        "entities": [
+          {
+            "end": 8,
+            "entity": "orderId",
+            "start": 0,
+            "value": "54171951"
+          }
+        ]
+      },
+      {
+        "text": "this is my orderId 24638180",
+        "intent": "order_status",
+        "entities": [
+          {
+            "end": 27,
+            "entity": "orderId",
+            "start": 19,
+            "value": "24638180"
+          }
+        ]
+      },
+      {
+        "text": "here is my orderid 85963151",
+        "intent": "order_status",
+        "entities": [
+          {
+            "end": 27,
+            "entity": "orderId",
+            "start": 19,
+            "value": "85963151"
+          }
+        ]
+      },
+      {
+        "text": "17531191",
+        "intent": "order_status",
+        "entities": [
+          {
+            "end": 8,
+            "entity": "orderId",
+            "start": 0,
+            "value": "17531191"
+          }
+        ]
+      },
+      {
+        "text": "my orderid 68259896",
+        "intent": "order_status",
+        "entities": [
+          {
+            "end": 19,
+            "entity": "orderId",
+            "start": 11,
+            "value": "68259896"
+          }
+        ]
+      },
+      {
+        "text": "here is my orderid 90882344",
+        "intent": "order_status",
+        "entities": [
+          {
+            "end": 27,
+            "entity": "orderId",
+            "start": 19,
+            "value": "90882344"
+          }
+        ]
+      },
+      {
+        "text": "my orderid 88341575",
+        "intent": "order_status",
+        "entities": [
+          {
+            "end": 19,
+            "entity": "orderId",
+            "start": 11,
+            "value": "88341575"
+          }
+        ]
+      },
+      {
+        "text": "this is my orderId 32227597",
+        "intent": "order_status",
+        "entities": [
+          {
+            "end": 27,
+            "entity": "orderId",
+            "start": 19,
+            "value": "32227597"
+          }
+        ]
+      },
+      {
+        "text": "here is my orderid 19551580",
+        "intent": "order_status",
+        "entities": [
+          {
+            "end": 27,
+            "entity": "orderId",
+            "start": 19,
+            "value": "19551580"
+          }
+        ]
+      },
+      {
+        "text": "orderid 40437041",
+        "intent": "order_status",
+        "entities": [
+          {
+            "end": 16,
+            "entity": "orderId",
+            "start": 8,
+            "value": "40437041"
+          }
+        ]
+      },
+      {
+        "text": "here is my orderid 99836011",
+        "intent": "order_status",
+        "entities": [
+          {
+            "end": 27,
+            "entity": "orderId",
+            "start": 19,
+            "value": "99836011"
+          }
+        ]
+      },
+      {
+        "text": "this is my orderId 47908130",
+        "intent": "order_status",
+        "entities": [
+          {
+            "end": 27,
+            "entity": "orderId",
+            "start": 19,
+            "value": "47908130"
+          }
+        ]
+      },
+      {
+        "text": "this is my orderId: 55352713",
+        "intent": "order_status",
+        "entities": [
+          {
+            "end": 28,
+            "entity": "orderId",
+            "start": 20,
+            "value": "55352713"
+          }
+        ]
+      },
+      {
+        "text": "here is my orderid 14168515",
+        "intent": "order_status",
+        "entities": [
+          {
+            "end": 27,
+            "entity": "orderId",
+            "start": 19,
+            "value": "14168515"
+          }
+        ]
+      },
+      {
+        "text": "orderid 51323948",
+        "intent": "order_status",
+        "entities": [
+          {
+            "end": 16,
+            "entity": "orderId",
+            "start": 8,
+            "value": "51323948"
+          }
+        ]
+      },
+      {
+        "text": "here is my orderid 66666676",
+        "intent": "order_status",
+        "entities": [
+          {
+            "end": 27,
+            "entity": "orderId",
+            "start": 19,
+            "value": "66666676"
+          }
+        ]
+      },
+      {
+        "text": "here is my orderid: 65983255",
+        "intent": "order_status",
+        "entities": [
+          {
+            "end": 28,
+            "entity": "orderId",
+            "start": 20,
+            "value": "65983255"
+          }
+        ]
+      },
+      {
+        "text": "this is my orderId 99579046",
+        "intent": "order_status",
+        "entities": [
+          {
+            "end": 27,
+            "entity": "orderId",
+            "start": 19,
+            "value": "99579046"
+          }
+        ]
+      },
+      {
+        "text": "here is my orderid: 54918212",
+        "intent": "order_status",
+        "entities": [
+          {
+            "end": 28,
+            "entity": "orderId",
+            "start": 20,
+            "value": "54918212"
+          }
+        ]
+      },
+      {
+        "text": "my orderid 76648781",
+        "intent": "order_status",
+        "entities": [
+          {
+            "end": 19,
+            "entity": "orderId",
+            "start": 11,
+            "value": "76648781"
+          }
+        ]
+      },
+      {
+        "text": "orderid 55756243",
+        "intent": "order_status",
+        "entities": [
+          {
+            "end": 16,
+            "entity": "orderId",
+            "start": 8,
+            "value": "55756243"
+          }
+        ]
+      },
+      {
+        "text": "here is my orderid: 19205078",
+        "intent": "order_status",
+        "entities": [
+          {
+            "end": 28,
+            "entity": "orderId",
+            "start": 20,
+            "value": "19205078"
+          }
+        ]
+      },
+      {
+        "text": "my orderid 15806736",
+        "intent": "order_status",
+        "entities": [
+          {
+            "end": 19,
+            "entity": "orderId",
+            "start": 11,
+            "value": "15806736"
+          }
+        ]
+      },
+      {
+        "text": "my orderid 17258358",
+        "intent": "order_status",
+        "entities": [
+          {
+            "end": 19,
+            "entity": "orderId",
+            "start": 11,
+            "value": "17258358"
+          }
+        ]
+      },
+      {
+        "text": "this is my orderId 46722061",
+        "intent": "order_status",
+        "entities": [
+          {
+            "end": 27,
+            "entity": "orderId",
+            "start": 19,
+            "value": "46722061"
+          }
+        ]
+      },
+      {
+        "text": "my orderid 51531939",
+        "intent": "order_status",
+        "entities": [
+          {
+            "end": 19,
+            "entity": "orderId",
+            "start": 11,
+            "value": "51531939"
+          }
+        ]
+      },
+      {
+        "text": "my orderid: 25657891",
+        "intent": "order_status",
+        "entities": [
+          {
+            "end": 20,
+            "entity": "orderId",
+            "start": 12,
+            "value": "25657891"
+          }
+        ]
+      },
+      {
+        "text": "this is my orderId 91789549",
+        "intent": "order_status",
+        "entities": [
+          {
+            "end": 27,
+            "entity": "orderId",
+            "start": 19,
+            "value": "91789549"
+          }
+        ]
+      },
+      {
+        "text": "this is my orderId: 61303236",
+        "intent": "order_status",
+        "entities": [
+          {
+            "end": 28,
+            "entity": "orderId",
+            "start": 20,
+            "value": "61303236"
+          }
+        ]
+      },
+      {
+        "text": "orderid: 87609850",
+        "intent": "order_status",
+        "entities": [
+          {
+            "end": 17,
+            "entity": "orderId",
+            "start": 9,
+            "value": "87609850"
+          }
+        ]
+      },
+      {
+        "text": "this is my orderId: 93643085",
+        "intent": "order_status",
+        "entities": [
+          {
+            "end": 28,
+            "entity": "orderId",
+            "start": 20,
+            "value": "93643085"
+          }
+        ]
+      },
+      {
+        "text": "61107992",
+        "intent": "order_status",
+        "entities": [
+          {
+            "end": 8,
+            "entity": "orderId",
+            "start": 0,
+            "value": "61107992"
+          }
+        ]
+      },
+      {
+        "text": "orderid: 47815840",
+        "intent": "order_status",
+        "entities": [
+          {
+            "end": 17,
+            "entity": "orderId",
+            "start": 9,
+            "value": "47815840"
+          }
+        ]
+      },
+      {
+        "text": "here is my orderid 21819842",
+        "intent": "order_status",
+        "entities": [
+          {
+            "end": 27,
+            "entity": "orderId",
+            "start": 19,
+            "value": "21819842"
+          }
+        ]
+      },
+      {
+        "text": "this is my orderId: 86762592",
+        "intent": "order_status",
+        "entities": [
+          {
+            "end": 28,
+            "entity": "orderId",
+            "start": 20,
+            "value": "86762592"
+          }
+        ]
+      },
+      {
+        "text": "orderid 78222466",
+        "intent": "order_status",
+        "entities": [
+          {
+            "end": 16,
+            "entity": "orderId",
+            "start": 8,
+            "value": "78222466"
+          }
+        ]
+      },
+      {
+        "text": "my orderid: 70931797",
+        "intent": "order_status",
+        "entities": [
+          {
+            "end": 20,
+            "entity": "orderId",
+            "start": 12,
+            "value": "70931797"
+          }
+        ]
+      },
+      {
+        "text": "here is my orderid 31844480",
+        "intent": "order_status",
+        "entities": [
+          {
+            "end": 27,
+            "entity": "orderId",
+            "start": 19,
+            "value": "31844480"
+          }
+        ]
+      },
+      {
+        "text": "my orderid 54318453",
+        "intent": "order_status",
+        "entities": [
+          {
+            "end": 19,
+            "entity": "orderId",
+            "start": 11,
+            "value": "54318453"
+          }
+        ]
+      },
+      {
+        "text": "this is my orderId 63475548",
+        "intent": "order_status",
+        "entities": [
+          {
+            "end": 27,
+            "entity": "orderId",
+            "start": 19,
+            "value": "63475548"
+          }
+        ]
+      },
+      {
+        "text": "this is my orderId 67447617",
+        "intent": "order_status",
+        "entities": [
+          {
+            "end": 27,
+            "entity": "orderId",
+            "start": 19,
+            "value": "67447617"
+          }
+        ]
+      },
+      {
+        "text": "here is my orderid 17357017",
+        "intent": "order_status",
+        "entities": [
+          {
+            "end": 27,
+            "entity": "orderId",
+            "start": 19,
+            "value": "17357017"
+          }
+        ]
+      },
+      {
+        "text": "this is my orderId: 44286735",
+        "intent": "order_status",
+        "entities": [
+          {
+            "end": 28,
+            "entity": "orderId",
+            "start": 20,
+            "value": "44286735"
+          }
+        ]
+      },
+      {
+        "text": "79697913",
+        "intent": "order_status",
+        "entities": [
+          {
+            "end": 8,
+            "entity": "orderId",
+            "start": 0,
+            "value": "79697913"
+          }
+        ]
+      },
+      {
+        "text": "my orderid 77226430",
+        "intent": "order_status",
+        "entities": [
+          {
+            "end": 19,
+            "entity": "orderId",
+            "start": 11,
+            "value": "77226430"
+          }
+        ]
+      },
+      {
+        "text": "this is my orderId 69466778",
+        "intent": "order_status",
+        "entities": [
+          {
+            "end": 27,
+            "entity": "orderId",
+            "start": 19,
+            "value": "69466778"
+          }
+        ]
+      },
+      {
+        "text": "my orderid 12182564",
+        "intent": "order_status",
+        "entities": [
+          {
+            "end": 19,
+            "entity": "orderId",
+            "start": 11,
+            "value": "12182564"
+          }
+        ]
+      },
+      {
+        "text": "orderid: 46684843",
+        "intent": "order_status",
+        "entities": [
+          {
+            "end": 17,
+            "entity": "orderId",
+            "start": 9,
+            "value": "46684843"
+          }
+        ]
+      },
+      {
+        "text": "this is my orderId: 11387438",
+        "intent": "order_status",
+        "entities": [
+          {
+            "end": 28,
+            "entity": "orderId",
+            "start": 20,
+            "value": "11387438"
+          }
+        ]
+      },
+      {
+        "text": "orderid 19561428",
+        "intent": "order_status",
+        "entities": [
+          {
+            "end": 16,
+            "entity": "orderId",
+            "start": 8,
+            "value": "19561428"
+          }
+        ]
+      },
+      {
+        "text": "91996289",
+        "intent": "order_status",
+        "entities": [
+          {
+            "end": 8,
+            "entity": "orderId",
+            "start": 0,
+            "value": "91996289"
+          }
+        ]
+      },
+      {
+        "text": "here is my orderid 28378929",
+        "intent": "order_status",
+        "entities": [
+          {
+            "end": 27,
+            "entity": "orderId",
+            "start": 19,
+            "value": "28378929"
+          }
+        ]
+      },
+      {
+        "text": "this is my orderId: 27825076",
+        "intent": "order_status",
+        "entities": [
+          {
+            "end": 28,
+            "entity": "orderId",
+            "start": 20,
+            "value": "27825076"
+          }
+        ]
+      },
+      {
+        "text": "my orderid 30313269",
+        "intent": "order_status",
+        "entities": [
+          {
+            "end": 19,
+            "entity": "orderId",
+            "start": 11,
+            "value": "30313269"
+          }
+        ]
+      },
+      {
+        "text": "my orderid 78635452",
+        "intent": "order_status",
+        "entities": [
+          {
+            "end": 19,
+            "entity": "orderId",
+            "start": 11,
+            "value": "78635452"
+          }
+        ]
+      },
+      {
+        "text": "41164513",
+        "intent": "order_status",
+        "entities": [
+          {
+            "end": 8,
+            "entity": "orderId",
+            "start": 0,
+            "value": "41164513"
+          }
+        ]
+      },
+      {
+        "text": "my orderid: 82577197",
+        "intent": "order_status",
+        "entities": [
+          {
+            "end": 20,
+            "entity": "orderId",
+            "start": 12,
+            "value": "82577197"
+          }
+        ]
+      },
+      {
+        "text": "orderid 97284796",
+        "intent": "order_status",
+        "entities": [
+          {
+            "end": 16,
+            "entity": "orderId",
+            "start": 8,
+            "value": "97284796"
+          }
+        ]
+      },
+      {
+        "text": "here is my orderid: 82115940",
+        "intent": "order_status",
+        "entities": [
+          {
+            "end": 28,
+            "entity": "orderId",
+            "start": 20,
+            "value": "82115940"
+          }
+        ]
+      },
+      {
+        "text": "my orderid 74689153",
+        "intent": "order_status",
+        "entities": [
+          {
+            "end": 19,
+            "entity": "orderId",
+            "start": 11,
+            "value": "74689153"
+          }
+        ]
+      },
+      {
+        "text": "my orderid 70816236",
+        "intent": "order_status",
+        "entities": [
+          {
+            "end": 19,
+            "entity": "orderId",
+            "start": 11,
+            "value": "70816236"
+          }
+        ]
+      },
+      {
+        "text": "here is my orderid: 98335323",
+        "intent": "order_status",
+        "entities": [
+          {
+            "end": 28,
+            "entity": "orderId",
+            "start": 20,
+            "value": "98335323"
+          }
+        ]
+      },
+      {
+        "text": "orderid 99966545",
+        "intent": "order_status",
+        "entities": [
+          {
+            "end": 16,
+            "entity": "orderId",
+            "start": 8,
+            "value": "99966545"
+          }
+        ]
+      },
+      {
+        "text": "here is my orderid: 30415351",
+        "intent": "order_status",
+        "entities": [
+          {
+            "end": 28,
+            "entity": "orderId",
+            "start": 20,
+            "value": "30415351"
+          }
+        ]
+      },
+      {
+        "text": "here is my orderid: 47177881",
+        "intent": "order_status",
+        "entities": [
+          {
+            "end": 28,
+            "entity": "orderId",
+            "start": 20,
+            "value": "47177881"
+          }
+        ]
+      },
+      {
+        "text": "here is my orderid 43816022",
+        "intent": "order_status",
+        "entities": [
+          {
+            "end": 27,
+            "entity": "orderId",
+            "start": 19,
+            "value": "43816022"
+          }
+        ]
+      },
+      {
+        "text": "my orderid 52393368",
+        "intent": "order_status",
+        "entities": [
+          {
+            "end": 19,
+            "entity": "orderId",
+            "start": 11,
+            "value": "52393368"
+          }
+        ]
+      },
+      {
+        "text": "here is my orderid 51573628",
+        "intent": "order_status",
+        "entities": [
+          {
+            "end": 27,
+            "entity": "orderId",
+            "start": 19,
+            "value": "51573628"
+          }
+        ]
+      },
+      {
+        "text": "48153913",
+        "intent": "order_status",
+        "entities": [
+          {
+            "end": 8,
+            "entity": "orderId",
+            "start": 0,
+            "value": "48153913"
+          }
+        ]
+      },
+      {
+        "text": "orderid: 18241113",
+        "intent": "order_status",
+        "entities": [
+          {
+            "end": 17,
+            "entity": "orderId",
+            "start": 9,
+            "value": "18241113"
+          }
+        ]
+      },
+      {
+        "text": "here is my orderid 66932610",
+        "intent": "order_status",
+        "entities": [
+          {
+            "end": 27,
+            "entity": "orderId",
+            "start": 19,
+            "value": "66932610"
+          }
+        ]
+      },
+      {
+        "text": "87122390",
+        "intent": "order_status",
+        "entities": [
+          {
+            "end": 8,
+            "entity": "orderId",
+            "start": 0,
+            "value": "87122390"
+          }
+        ]
+      },
+      {
+        "text": "51571463",
+        "intent": "order_status",
+        "entities": [
+          {
+            "end": 8,
+            "entity": "orderId",
+            "start": 0,
+            "value": "51571463"
+          }
+        ]
+      },
+      {
+        "text": "my orderid 41881698",
+        "intent": "order_status",
+        "entities": [
+          {
+            "end": 19,
+            "entity": "orderId",
+            "start": 11,
+            "value": "41881698"
+          }
+        ]
+      },
+      {
+        "text": "my orderid: 77146764",
+        "intent": "order_status",
+        "entities": [
+          {
+            "end": 20,
+            "entity": "orderId",
+            "start": 12,
+            "value": "77146764"
+          }
+        ]
+      },
+      {
+        "text": "here is my orderid 58626919",
+        "intent": "order_status",
+        "entities": [
+          {
+            "end": 27,
+            "entity": "orderId",
+            "start": 19,
+            "value": "58626919"
+          }
+        ]
+      },
+      {
+        "text": "54167082",
+        "intent": "order_status",
+        "entities": [
+          {
+            "end": 8,
+            "entity": "orderId",
+            "start": 0,
+            "value": "54167082"
+          }
+        ]
+      },
+      {
+        "text": "37962219",
+        "intent": "order_status",
+        "entities": [
+          {
+            "end": 8,
+            "entity": "orderId",
+            "start": 0,
+            "value": "37962219"
+          }
+        ]
+      },
+      {
+        "text": "here is my orderid 58926769",
+        "intent": "order_status",
+        "entities": [
+          {
+            "end": 27,
+            "entity": "orderId",
+            "start": 19,
+            "value": "58926769"
+          }
+        ]
+      },
+      {
+        "text": "this is my orderId: 70763150",
+        "intent": "order_status",
+        "entities": [
+          {
+            "end": 28,
+            "entity": "orderId",
+            "start": 20,
+            "value": "70763150"
+          }
+        ]
+      },
+      {
+        "text": "my orderid 66394685",
+        "intent": "order_status",
+        "entities": [
+          {
+            "end": 19,
+            "entity": "orderId",
+            "start": 11,
+            "value": "66394685"
+          }
+        ]
+      },
+      {
+        "text": "my orderid: 82307288",
+        "intent": "order_status",
+        "entities": [
+          {
+            "end": 20,
+            "entity": "orderId",
+            "start": 12,
+            "value": "82307288"
+          }
+        ]
+      },
+      {
+        "text": "this is my orderId 47873897",
+        "intent": "order_status",
+        "entities": [
+          {
+            "end": 27,
+            "entity": "orderId",
+            "start": 19,
+            "value": "47873897"
+          }
+        ]
+      },
+      {
+        "text": "here is my orderid: 53394020",
+        "intent": "order_status",
+        "entities": [
+          {
+            "end": 28,
+            "entity": "orderId",
+            "start": 20,
+            "value": "53394020"
+          }
+        ]
+      },
+      {
+        "text": "this is my orderId 75454861",
+        "intent": "order_status",
+        "entities": [
+          {
+            "end": 27,
+            "entity": "orderId",
+            "start": 19,
+            "value": "75454861"
+          }
+        ]
+      },
+      {
+        "text": "my orderid: 29214351",
+        "intent": "order_status",
+        "entities": [
+          {
+            "end": 20,
+            "entity": "orderId",
+            "start": 12,
+            "value": "29214351"
+          }
+        ]
+      },
+      {
+        "text": "here is my orderid: 29319435",
+        "intent": "order_status",
+        "entities": [
+          {
+            "end": 28,
+            "entity": "orderId",
+            "start": 20,
+            "value": "29319435"
+          }
+        ]
+      },
+      {
+        "text": "this is my orderId 75373542",
+        "intent": "order_status",
+        "entities": [
+          {
+            "end": 27,
+            "entity": "orderId",
+            "start": 19,
+            "value": "75373542"
+          }
+        ]
+      },
+      {
+        "text": "my orderid: 39269822",
+        "intent": "order_status",
+        "entities": [
+          {
+            "end": 20,
+            "entity": "orderId",
+            "start": 12,
+            "value": "39269822"
+          }
+        ]
+      },
+      {
+        "text": "orderid: 66315511",
+        "intent": "order_status",
+        "entities": [
+          {
+            "end": 17,
+            "entity": "orderId",
+            "start": 9,
+            "value": "66315511"
+          }
+        ]
+      },
+      {
+        "text": "here is my orderid 90279684",
+        "intent": "order_status",
+        "entities": [
+          {
+            "end": 27,
+            "entity": "orderId",
+            "start": 19,
+            "value": "90279684"
+          }
+        ]
+      },
+      {
+        "text": "41524980",
+        "intent": "order_status",
+        "entities": [
+          {
+            "end": 8,
+            "entity": "orderId",
+            "start": 0,
+            "value": "41524980"
+          }
+        ]
+      },
+      {
+        "text": "here is my orderid 73512973",
+        "intent": "order_status",
+        "entities": [
+          {
+            "end": 27,
+            "entity": "orderId",
+            "start": 19,
+            "value": "73512973"
+          }
+        ]
+      },
+      {
+        "text": "my orderid: 52485229",
+        "intent": "order_status",
+        "entities": [
+          {
+            "end": 20,
+            "entity": "orderId",
+            "start": 12,
+            "value": "52485229"
+          }
+        ]
+      },
+      {
+        "text": "order status",
+        "intent": "order_status",
+        "entities": []
+      },
+      {
+        "text": "orderstatus",
+        "intent": "order_status",
+        "entities": []
+      },
+      {
+        "text": "I want to know my order status?",
+        "intent": "order_status",
+        "entities": []
+      },
+      {
+        "text": "I want to know my orderstatus?",
+        "intent": "order_status",
+        "entities": []
+      },
+      {
+        "text": "my order status?",
+        "intent": "order_status",
+        "entities": []
+      },
+      {
+        "text": "my orderstatus?",
+        "intent": "order_status",
+        "entities": []
+      },
+      {
+        "text": "what is my orderstatus?",
+        "intent": "order_status",
+        "entities": []
+      },
+      {
+        "text": "what is my order status?",
+        "intent": "order_status",
+        "entities": []
+      },
+      {
+        "text": "can I know orderstatus?",
+        "intent": "order_status",
+        "entities": []
+      },
+      {
+        "text": "can I know order status?",
+        "intent": "order_status",
+        "entities": []
+      },
+      {
+        "text": "How can I track my order?",
+        "intent": "order_status",
+        "entities": []
+      },
+      {
+        "text": "What is the status of my order?",
+        "intent": "order_status",
+        "entities": []
+      },
+      {
+        "text": "I would like to know my order status?",
+        "intent": "order_status",
+        "entities": []
+      },
+      {
+        "text": "How will I know if my order has been received?",
+        "intent": "order_status",
+        "entities": []
+      },
+      {
+        "text": "How do I cancel my order?",
+        "intent": "order_status",
+        "entities": []
+      },
+      {
+        "text": "How Soon Can I Expect My Order?",
+        "intent": "order_status",
+        "entities": []
+      },
+      {
+        "text": "How Do I Change Or Cancel My Order?",
+        "intent": "order_status",
+        "entities": []
+      },
+      {
+        "text": "How do I place an order?",
+        "intent": "order_status",
+        "entities": []
+      },
+      {
+        "text": "Was my order successful?",
+        "intent": "order_status",
+        "entities": []
+      },
+      {
+        "text": "Why have I not received an order confirmation by e-mail?",
+        "intent": "order_status",
+        "entities": []
+      },
+      {
+        "text": "im ok with that yes thanks",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "affirmative that is correct yes",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "agreed good yes",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "yes",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "its fine agreed",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "sounds good",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "affirmative you understood me yep",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "affirmative agreed thanks",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "im ok with that that is right sounds good",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "yep good correct",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "right affirmative thanks",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "sounds good that is right im ok with that",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "correct",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "yes sir please",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "yep",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "yes that is correct yes",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "agreed yep thanks",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "yes sir its fine yes",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "correct its fine yes sir",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "sounds good right thank you",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "yep i want that im ok with that",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "sounds good its fine yes sir",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "ok",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "ok, I want it",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "ok, I will take it",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "ok",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "yes sir that is right yep",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "yes sir sounds good",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "agreed i want that agreed",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "agreed i want that",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "im ok with that thanks",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "you understood me yes",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "right you understood me yes sir",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "right good",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "sounds good right",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "correct that is right agreed",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "yes sir plz",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "agreed its fine yes sir",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "sounds good its fine yep",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "yep yes sir thanks",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "yes sir good agreed",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "yes that is fine yes sir",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "good correct",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "sounds good i want that yes sir",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "im ok with that that is what i want sounds good",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "right correct thank you",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "that is what i want yep",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "im ok with that that is right im ok with that",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "yes that is correct sounds good",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "affirmative that is what i want",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "right that is what i want right",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "affirmative that is what i want yep",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "correct that is correct yes",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "don't do that",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "that's not right plz that is wrong",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "pls not really that's not what i want",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "nope please that's not correct",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "plz nope dont mean that",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "dont",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "dont want to",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "dont do it",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "dont want it",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "don't",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "nope its not correct",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "didnt meant that",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "dont mean that",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "please incorrect its not correct",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "incorrect pls that's wrong",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "incorrect",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "plz that's not right dont mean that",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "that's not correct",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "that's not right please dont mean that",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "nope that is wrong",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "that's not right please that's not what i want",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "don't do that plz didnt meant that",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "pls that's not right",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "incorrect its not correct",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "that's not right please that's wrong",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "pls not really",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "no dont mean that",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "not really",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "its not correct",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "please nope that is wrong",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "that's not right dont mean that",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "please no i don't want that",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "incorrect plz that's not what i want",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "incorrect please that's wrong",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "that's not right",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "don't do that pls it's not good",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "please that's not right dont mean that",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "plz that's not right its not correct",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "it's not good",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "that's not right pls that's wrong",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "pls nope didnt meant that",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "plz no it's not good",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "pls not really it's not good",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "plz incorrect i don't want that",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "its not ok",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "no pls didnt meant that",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "no pls that's not correct",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "incorrect plz that is wrong",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "plz not really that is wrong",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "no plz i don't want that",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "incorrect plz that's not correct",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "nope plz didnt meant that",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "please don't do that",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "incorrect that's not correct",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "please no its not correct",
+        "intent": "negative",
+        "entities": []
+      }
+    ],
+    "entity_synonyms": [],
+    "lookup_tables": [],
+    "regex_features": [{"name" : "order_status", "pattern": "[(+]*[0-9]{8}[()+. -]*"}]
+  }
+}
