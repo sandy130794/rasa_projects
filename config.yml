@@ -4,7 +4,7 @@ language: en
 pipeline: supervised_embeddings
 
 # Configuration for Rasa Core.
-# https://rasa.com/docs/rasa/core/policies/
+# https://rasa.com/docs/rasa/core/policies/c
 policies:
   - name: MemoizationPolicy
   - name: KerasPolicy
