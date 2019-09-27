@@ -934,21 +934,6 @@
       {
         "entities": [],
         "intent": "ask_whoami",
-        "text": "How do I discover who I am?"
-      },
-      {
-        "entities": [],
-        "intent": "ask_whoami",
-        "text": "How do I discover who am I?"
-      },
-      {
-        "entities": [],
-        "intent": "ask_whoami",
-        "text": "How do I identify myself?"
-      },
-      {
-        "entities": [],
-        "intent": "ask_whoami",
         "text": "Okay who am I?"
       },
       {
@@ -1804,17 +1789,12 @@
       {
         "entities": [],
         "intent": "how_to_get_started",
-        "text": "I want to learn about Ovkay core"
+        "text": "I want to learn about Ovkay"
       },
       {
         "entities": [],
         "intent": "how_to_get_started",
-        "text": "I want to learn about Ovkay nlu"
-      },
-      {
-        "entities": [],
-        "intent": "how_to_get_started",
-        "text": "Ovkay stack"
+        "text": "Ovkay"
       },
       {
         "entities": [],
@@ -1827,49 +1807,48 @@
         "text": "WHAT IS Ovkay"
       },
       {
-        "entities": [],
-        "intent": "how_to_get_started",
-        "text": "can i just test features without having to deal with your predefined conversation"
+        "entities": [
+          {
+            "end": 31,
+            "entity": "customer_type",
+            "start": 25,
+            "value": "Sender"
+          }
+        ],
+        "intent": "ask_guidelines",
+        "text": "can you guide me through Sender"
+      },
+      {
+        "entities": [
+          {
+            "end": 33,
+            "entity": "customer_type",
+            "start": 25,
+            "value": "Traveler"
+          }
+        ],
+        "intent": "ask_guidelines",
+        "text": "can you guide me through Traveler"
       },
       {
         "entities": [],
         "intent": "how_to_get_started",
-        "text": "can you guide me know to create knowledge base chatbot"
+        "text": "can you guide me through Ovkay"
       },
       {
         "entities": [],
         "intent": "how_to_get_started",
-        "text": "core"
+        "text": "give me some information on Ovkay"
       },
       {
         "entities": [],
         "intent": "how_to_get_started",
-        "text": "give me some information on nlu"
+        "text": "how about Ovkay"
       },
       {
         "entities": [],
         "intent": "how_to_get_started",
-        "text": "how about nlu"
-      },
-      {
-        "entities": [],
-        "intent": "how_to_get_started",
-        "text": "how can I build a chatbot"
-      },
-      {
-        "entities": [],
-        "intent": "how_to_get_started",
-        "text": "how can I learn Ovkay"
-      },
-      {
-        "entities": [],
-        "intent": "how_to_get_started",
-        "text": "how do I get started with Ovkay"
-      },
-      {
-        "entities": [],
-        "intent": "how_to_get_started",
-        "text": "how do I train Ovkay nlu"
+        "text": "what is an Ovkay"
       },
       {
         "entities": [],
@@ -1879,27 +1858,182 @@
       {
         "entities": [],
         "intent": "how_to_get_started",
-        "text": "how do i get Ovkay core"
+        "text": "how do i use Ovkay"
       },
       {
         "entities": [],
         "intent": "how_to_get_started",
-        "text": "how do i learn Ovkay core"
+        "text": "how to Ovkay works"
+      },
+      {
+        "text": "I am having a problem with the package",
+        "intent": "faqs",
+        "entities": []
+      },
+      {
+        "text": "What if there is a problem with the package",
+        "intent": "faqs",
+        "entities": []
+      },
+      {
+        "text": "What if have a issue",
+        "intent": "faqs",
+        "entities": []
+      },
+      {
+        "text": "What if i have a problem",
+        "intent": "faqs",
+        "entities": []
+      },
+      {
+        "text": "What if have a problem",
+        "intent": "faqs",
+        "entities": []
+      },
+      {
+        "text": "what if i have dispute",
+        "intent": "faqs",
+        "entities": []
+      },
+      {
+        "text": "what if i have question",
+        "intent": "faqs",
+        "entities": []
+      },
+      {
+        "text": "i have a question",
+        "intent": "faqs",
+        "entities": []
+      },
+      {
+        "text": "i have a dispute",
+        "intent": "faqs",
+        "entities": []
+      },
+      {
+        "text": "i have a problem",
+        "intent": "faqs",
+        "entities": []
+      },
+      {
+        "text": "how much i will get",
+        "intent": "faqs",
+        "entities": []
+      },
+      {
+        "text": "how much i will be paid",
+        "intent": "faqs",
+        "entities": []
+      },
+      {
+        "text": "how much amount i will get",
+        "intent": "faqs",
+        "entities": []
+      },
+      {
+        "text": "how much i will pay",
+        "intent": "faqs",
+        "entities": []
+      },
+      {
+        "text": "how do i send",
+        "intent": "faqs",
+        "entities": []
+      },
+      {
+        "text": "how do i claim",
+        "intent": "faqs",
+        "entities": []
+      },
+      {
+        "text": "i want a claim",
+        "intent": "faqs",
+        "entities": []
+      },
+      {
+        "text": "how can i deliver multiple packages",
+        "intent": "faqs",
+        "entities": []
+      },
+      {
+        "text": "how do i transport",
+        "intent": "faqs",
+        "entities": []
+      },
+      {
+        "text": "how do i  track delivery",
+        "intent": "faqs",
+        "entities": []
+      },
+      {
+        "text": "can i deliver multiple packages",
+        "intent": "faqs",
+        "entities": []
+      },
+      {
+        "text": "can i track a delivery",
+        "intent": "faqs",
+        "entities": []
+      },
+      {
+        "text": "what if i have a question",
+        "intent": "faqs",
+        "entities": []
+      },
+      {
+        "text": "how do i cancel a transport",
+        "intent": "faqs",
+        "entities": []
+      },
+      {
+        "text": "how can i cancel a transport",
+        "intent": "faqs",
+        "entities": []
+      },
+      {
+        "text": "how do i cancel a package",
+        "intent": "faqs",
+        "entities": []
+      },
+      {
+        "text": "how can i cancel a package",
+        "intent": "faqs",
+        "entities": []
+      },
+      {
+        "text": "what can i do if a sender are a recipent is not responding",
+        "intent": "faqs",
+        "entities": []
+      },
+      {
+        "text": "how do i get a notification",
+        "intent": "faqs",
+        "entities": []
+      },
+      {
+        "text": "how can i get a notification",
+        "intent": "faqs",
+        "entities": []
+      },
+      {
+        "text": "how do i get alerts",
+        "intent": "faqs",
+        "entities": []
+      },
+      {
+        "text": "how can i get alerts",
+        "intent": "faqs",
+        "entities": []
+      },
+      {
+        "text": "how much a service cost",
+        "intent": "faqs",
+        "entities": []
       },
       {
         "entities": [],
-        "intent": "how_to_get_started",
-        "text": "how to build a bot?"
-      },
-      {
-        "entities": [],
-        "intent": "how_to_get_started",
-        "text": "how to get started with nlu"
-      },
-      {
-        "entities": [],
-        "intent": "how_to_get_started",
-        "text": "how to learn Ovkay stack"
+        "intent": "faqs",
+        "text": "how to use Ovkay services"
       },
       {
         "entities": [],
@@ -1914,22 +2048,17 @@
       {
         "entities": [],
         "intent": "how_to_get_started",
-        "text": "i want to learn about Ovkay core"
+        "text": "i want to learn about Ovkay"
       },
       {
         "entities": [],
         "intent": "how_to_get_started",
-        "text": "i want to use Ovkay to build my chatbot"
+        "text": "i want to use Ovkay"
       },
       {
         "entities": [],
         "intent": "how_to_get_started",
-        "text": "i want to use nlu"
-      },
-      {
-        "entities": [],
-        "intent": "how_to_get_started",
-        "text": "nlu"
+        "text": "i want to use"
       },
       {
         "entities": [],
@@ -1939,12 +2068,7 @@
       {
         "entities": [],
         "intent": "how_to_get_started",
-        "text": "tell me about core please"
-      },
-      {
-        "entities": [],
-        "intent": "how_to_get_started",
-        "text": "tell me how to get started with core"
+        "text": "tell me about Ovkay"
       },
       {
         "entities": [],
@@ -1954,27 +2078,12 @@
       {
         "entities": [],
         "intent": "how_to_get_started",
-        "text": "what is Ovkay core"
+        "text": "what is Ovkay"
       },
       {
         "entities": [],
         "intent": "how_to_get_started",
-        "text": "what is nlu"
-      },
-      {
-        "entities": [],
-        "intent": "how_to_get_started",
-        "text": "what is the difference between Ovkay nlu and Ovkay core"
-      },
-      {
-        "entities": [],
-        "intent": "how_to_get_started",
-        "text": "what is this nlu thing?"
-      },
-      {
-        "entities": [],
-        "intent": "how_to_get_started",
-        "text": "where to start the development of Ovkay"
+        "text": "what is this Ovkay thing?"
       },
       {
         "entities": [],
@@ -4669,6 +4778,11 @@
       {
         "entities": [],
         "intent": "faqs",
+        "text": "How can I file a claim?"
+      },
+      {
+        "entities": [],
+        "intent": "faqs",
         "text": "How do I send something?"
       },
       {
@@ -6961,7 +7075,31 @@
         ]
       },
       {
+        "text": "Sender",
+        "intent": "ask_guidelines",
+        "entities": [
+          {
+            "end": 6,
+            "entity": "customer_type",
+            "start": 0,
+            "value": "Sender"
+          }
+        ]
+      },
+      {
         "text": "Traveler guidelines",
+        "intent": "ask_guidelines",
+        "entities": [
+          {
+            "end": 8,
+            "entity": "customer_type",
+            "start": 0,
+            "value": "Traveler"
+          }
+        ]
+      },
+      {
+        "text": "Traveler",
         "intent": "ask_guidelines",
         "entities": [
           {
