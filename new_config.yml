@@ -1,5 +1,5 @@
 language: en
-pipeline:
+pipeline: 
 - name: "SpacyNLP"
 - name: "SpacyTokenizer"
 - name: "SpacyFeaturizer"
