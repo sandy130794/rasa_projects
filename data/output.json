@@ -6755,6 +6755,582 @@
         "text": "please no its not correct",
         "intent": "negative",
         "entities": []
+      },
+      {
+        "text": "I want to see guidelines for Sender?",
+        "intent": "ask_guidelines",
+        "entities": [
+          {
+            "end": 35,
+            "entity": "customer_type",
+            "start": 29,
+            "value": "Sender"
+          }
+        ]
+      },
+      {
+        "text": "I want to see guidelines for Traveler?",
+        "intent": "ask_guidelines",
+        "entities": [
+          {
+            "end": 37,
+            "entity": "customer_type",
+            "start": 29,
+            "value": "Traveler"
+          }
+        ]
+      },
+      {
+        "text": "I want to see some guidelines for Sender",
+        "intent": "ask_guidelines",
+        "entities": [
+          {
+            "end": 40,
+            "entity": "customer_type",
+            "start": 34,
+            "value": "Sender"
+          }
+        ]
+      },
+      {
+        "text": "I want to see some guidelines for Traveler",
+        "intent": "ask_guidelines",
+        "entities": [
+          {
+            "end": 42,
+            "entity": "customer_type",
+            "start": 34,
+            "value": "Traveler"
+          }
+        ]
+      },
+      {
+        "text": "is there any guidelines for Sender?",
+        "intent": "ask_guidelines",
+        "entities": [
+          {
+            "end": 34,
+            "entity": "customer_type",
+            "start": 28,
+            "value": "Sender"
+          }
+        ]
+      },
+      {
+        "text": "is there any guidelines for Traveler?",
+        "intent": "ask_guidelines",
+        "entities": [
+          {
+            "end": 36,
+            "entity": "customer_type",
+            "start": 28,
+            "value": "Traveler"
+          }
+        ]
+      },
+      {
+        "text": "there are any guidelines for Sender?",
+        "intent": "ask_guidelines",
+        "entities": [
+          {
+            "end": 35,
+            "entity": "customer_type",
+            "start": 29,
+            "value": "Sender"
+          }
+        ]
+      },
+      {
+        "text": "there are any guidelines for Traveler?",
+        "intent": "ask_guidelines",
+        "entities": [
+          {
+            "end": 37,
+            "entity": "customer_type",
+            "start": 29,
+            "value": "Traveler"
+          }
+        ]
+      },
+      {
+        "text": "i would like to see guidelines for Sender?",
+        "intent": "ask_guidelines",
+        "entities": [
+          {
+            "end": 41,
+            "entity": "customer_type",
+            "start": 35,
+            "value": "Sender"
+          }
+        ]
+      },
+      {
+        "text": "i would like to see guidelines for Traveler?",
+        "intent": "ask_guidelines",
+        "entities": [
+          {
+            "end": 43,
+            "entity": "customer_type",
+            "start": 35,
+            "value": "Traveler"
+          }
+        ]
+      },
+      {
+        "text": "i would like to see some guidelines for Sender?",
+        "intent": "ask_guidelines",
+        "entities": [
+          {
+            "end": 46,
+            "entity": "customer_type",
+            "start": 40,
+            "value": "Sender"
+          }
+        ]
+      },
+      {
+        "text": "i would like to see some guidelines for Traveler?",
+        "intent": "ask_guidelines",
+        "entities": [
+          {
+            "end": 48,
+            "entity": "customer_type",
+            "start": 40,
+            "value": "Traveler"
+          }
+        ]
+      },
+      {
+        "text": "guidelines for Sender",
+        "intent": "ask_guidelines",
+        "entities": [
+          {
+            "end": 21,
+            "entity": "customer_type",
+            "start": 15,
+            "value": "Sender"
+          }
+        ]
+      },
+      {
+        "text": "guidelines for Traveler",
+        "intent": "ask_guidelines",
+        "entities": [
+          {
+            "end": 23,
+            "entity": "customer_type",
+            "start": 15,
+            "value": "Traveler"
+          }
+        ]
+      },
+      {
+        "text": "i would like to see some guidelines for Sender",
+        "intent": "ask_guidelines",
+        "entities": [
+          {
+            "end": 46,
+            "entity": "customer_type",
+            "start": 40,
+            "value": "Sender"
+          }
+        ]
+      },
+      {
+        "text": "i would like to see some guidelines for Traveler",
+        "intent": "ask_guidelines",
+        "entities": [
+          {
+            "end": 48,
+            "entity": "customer_type",
+            "start": 40,
+            "value": "Traveler"
+          }
+        ]
+      },
+      {
+        "text": "Sender guidelines",
+        "intent": "ask_guidelines",
+        "entities": [
+          {
+            "end": 6,
+            "entity": "customer_type",
+            "start": 0,
+            "value": "Sender"
+          }
+        ]
+      },
+      {
+        "text": "Traveler guidelines",
+        "intent": "ask_guidelines",
+        "entities": [
+          {
+            "end": 8,
+            "entity": "customer_type",
+            "start": 0,
+            "value": "Traveler"
+          }
+        ]
+      },
+      {
+        "text": "i want some information on the guidelines for Sender",
+        "intent": "ask_guidelines",
+        "entities": [
+          {
+            "end": 52,
+            "entity": "customer_type",
+            "start": 46,
+            "value": "Sender"
+          }
+        ]
+      },
+      {
+        "text": "i want some information on the guidelines for Traveler",
+        "intent": "ask_guidelines",
+        "entities": [
+          {
+            "end": 54,
+            "entity": "customer_type",
+            "start": 46,
+            "value": "Traveler"
+          }
+        ]
+      },
+      {
+        "text": "I want see guidelines for Sender",
+        "intent": "ask_guidelines",
+        "entities": [
+          {
+            "end": 32,
+            "entity": "customer_type",
+            "start": 26,
+            "value": "Sender"
+          }
+        ]
+      },
+      {
+        "text": "I want see guidelines for Traveler",
+        "intent": "ask_guidelines",
+        "entities": [
+          {
+            "end": 34,
+            "entity": "customer_type",
+            "start": 26,
+            "value": "Traveler"
+          }
+        ]
+      },
+      {
+        "text": "is there any guidelines for Sender",
+        "intent": "ask_guidelines",
+        "entities": [
+          {
+            "end": 34,
+            "entity": "customer_type",
+            "start": 28,
+            "value": "Sender"
+          }
+        ]
+      },
+      {
+        "text": "is there any guidelines for Traveler",
+        "intent": "ask_guidelines",
+        "entities": [
+          {
+            "end": 36,
+            "entity": "customer_type",
+            "start": 28,
+            "value": "Traveler"
+          }
+        ]
+      },
+      {
+        "text": "there are any guidelines for Sender",
+        "intent": "ask_guidelines",
+        "entities": [
+          {
+            "end": 35,
+            "entity": "customer_type",
+            "start": 29,
+            "value": "Sender"
+          }
+        ]
+      },
+      {
+        "text": "there are any guidelines for Traveler",
+        "intent": "ask_guidelines",
+        "entities": [
+          {
+            "end": 37,
+            "entity": "customer_type",
+            "start": 29,
+            "value": "Traveler"
+          }
+        ]
+      },
+      {
+        "text": "is there any information regaurding guidelines on Sender",
+        "intent": "ask_guidelines",
+        "entities": [
+          {
+            "end": 56,
+            "entity": "customer_type",
+            "start": 50,
+            "value": "Sender"
+          }
+        ]
+      },
+      {
+        "text": "is there any information regaurding guidelines on Traveler",
+        "intent": "ask_guidelines",
+        "entities": [
+          {
+            "end": 58,
+            "entity": "customer_type",
+            "start": 50,
+            "value": "Traveler"
+          }
+        ]
+      },
+      {
+        "text": "I need some detail guidelines for Sender",
+        "intent": "ask_guidelines",
+        "entities": [
+          {
+            "end": 40,
+            "entity": "customer_type",
+            "start": 34,
+            "value": "Sender"
+          }
+        ]
+      },
+      {
+        "text": "I need some detail guidelines for Traveler",
+        "intent": "ask_guidelines",
+        "entities": [
+          {
+            "end": 42,
+            "entity": "customer_type",
+            "start": 34,
+            "value": "Traveler"
+          }
+        ]
+      },
+      {
+        "text": "I need some guidelines reguarding Sender?",
+        "intent": "ask_guidelines",
+        "entities": [
+          {
+            "end": 40,
+            "entity": "customer_type",
+            "start": 34,
+            "value": "Sender"
+          }
+        ]
+      },
+      {
+        "text": "I need some guidelines reguarding Traveler?",
+        "intent": "ask_guidelines",
+        "entities": [
+          {
+            "end": 42,
+            "entity": "customer_type",
+            "start": 34,
+            "value": "Traveler"
+          }
+        ]
+      },
+      {
+        "text": "I need complete knowledge on the Sender?",
+        "intent": "ask_guidelines",
+        "entities": [
+          {
+            "end": 39,
+            "entity": "customer_type",
+            "start": 33,
+            "value": "Sender"
+          }
+        ]
+      },
+      {
+        "text": "I need complete knowledge on the Traveler?",
+        "intent": "ask_guidelines",
+        "entities": [
+          {
+            "end": 41,
+            "entity": "customer_type",
+            "start": 33,
+            "value": "Traveler"
+          }
+        ]
+      },
+      {
+        "text": "I need complete data on the Sender?",
+        "intent": "ask_guidelines",
+        "entities": [
+          {
+            "end": 34,
+            "entity": "customer_type",
+            "start": 28,
+            "value": "Sender"
+          }
+        ]
+      },
+      {
+        "text": "I need complete data on the Traveler?",
+        "intent": "ask_guidelines",
+        "entities": [
+          {
+            "end": 36,
+            "entity": "customer_type",
+            "start": 28,
+            "value": "Traveler"
+          }
+        ]
+      },
+      {
+        "text": "can i have information on Sender",
+        "intent": "ask_guidelines",
+        "entities": [
+          {
+            "end": 32,
+            "entity": "customer_type",
+            "start": 26,
+            "value": "Sender"
+          }
+        ]
+      },
+      {
+        "text": "can i have information on Traveler",
+        "intent": "ask_guidelines",
+        "entities": [
+          {
+            "end": 34,
+            "entity": "customer_type",
+            "start": 26,
+            "value": "Traveler"
+          }
+        ]
+      },
+      {
+        "text": "can i get information on the Sender",
+        "intent": "ask_guidelines",
+        "entities": [
+          {
+            "end": 35,
+            "entity": "customer_type",
+            "start": 29,
+            "value": "Sender"
+          }
+        ]
+      },
+      {
+        "text": "can i get information on the Traveler",
+        "intent": "ask_guidelines",
+        "entities": [
+          {
+            "end": 37,
+            "entity": "customer_type",
+            "start": 29,
+            "value": "Traveler"
+          }
+        ]
+      },
+      {
+        "text": "can i get some tips reguarding Sender",
+        "intent": "ask_guidelines",
+        "entities": [
+          {
+            "end": 37,
+            "entity": "customer_type",
+            "start": 31,
+            "value": "Sender"
+          }
+        ]
+      },
+      {
+        "text": "can i get some tips reguarding Traveler",
+        "intent": "ask_guidelines",
+        "entities": [
+          {
+            "end": 39,
+            "entity": "customer_type",
+            "start": 31,
+            "value": "Traveler"
+          }
+        ]
+      },
+      {
+        "text": "i need some suggestions on Sender",
+        "intent": "ask_guidelines",
+        "entities": [
+          {
+            "end": 33,
+            "entity": "customer_type",
+            "start": 27,
+            "value": "Sender"
+          }
+        ]
+      },
+      {
+        "text": "i need some suggestions on Traveler",
+        "intent": "ask_guidelines",
+        "entities": [
+          {
+            "end": 35,
+            "entity": "customer_type",
+            "start": 27,
+            "value": "Traveler"
+          }
+        ]
+      },
+      {
+        "text": "i want some suggestions on Sender",
+        "intent": "ask_guidelines",
+        "entities": [
+          {
+            "end": 33,
+            "entity": "customer_type",
+            "start": 27,
+            "value": "Sender"
+          }
+        ]
+      },
+      {
+        "text": "i want some suggestions on Traveler",
+        "intent": "ask_guidelines",
+        "entities": [
+          {
+            "end": 35,
+            "entity": "customer_type",
+            "start": 27,
+            "value": "Traveler"
+          }
+        ]
+      },
+      {
+        "text": "i need some help on Sender",
+        "intent": "ask_guidelines",
+        "entities": [
+          {
+            "end": 26,
+            "entity": "customer_type",
+            "start": 20,
+            "value": "Sender"
+          }
+        ]
+      },
+      {
+        "text": "i need some help on Traveler",
+        "intent": "ask_guidelines",
+        "entities": [
+          {
+            "end": 28,
+            "entity": "customer_type",
+            "start": 20,
+            "value": "Traveler"
+          }
+        ]
       }
     ],
     "entity_synonyms": [],
